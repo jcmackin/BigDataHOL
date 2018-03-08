@@ -32,7 +32,7 @@ This lab makes use of an existing dataset (released under public domain) to mode
 This hands-on lab includes the following exercises:
 
 -   [Exercise 1: Create a DSVM](#Exercise1)
--   [Exercise 2: Prepare the environment](#Exercise2)
+-   [Exercise 2: Set up the U-SQL run environment](#Exercise2)
 -   [Exercise 3: Create U-SQL queries to view rental listings and review information](#Exercise3)
 -   [Exercise 4: Use U-SQL to calculate occupancy rate](#Exercise4)
 -   [Exercise 5: Combine queries to determine potential rental income](#Exercise5)
@@ -118,8 +118,8 @@ This step downloads an RDP file through your browser.
 ![DSVMdesktop](img/DSVMdesktop.jpg)
 
 <a name="Exercise2"></a>
-## Exercise 2: Preparing the environment
-The DSVM contains the tools we need, but these tools are missing some components by default.  Before you can perform U-SQL queries in our source code editor Visual Studio Code, you will need to download and install an additional Visual Studio component, Azure Data Lake Tools, and additional script dependencies.
+## Exercise 2: Set up the U-SQL run environment
+The DSVM contains the tools we need, but these tools are missing some components we need by default.  Before you can run U-SQL queries locally in our source code editor Visual Studio Code, you will need to download and install an additional Visual Studio component, Azure Data Lake Tools, and additional script dependencies.
    
 ### Step 1: Installing the Visual Studio component 
 1. In the DSVM, right-click the Start button and select **Search** from the shortcut menu. 
@@ -216,5 +216,5 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQwODQxMzZdfQ==
+eyJoaXN0b3J5IjpbLTI4MzA4MDg2OV19
 -->
