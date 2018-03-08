@@ -133,7 +133,7 @@ The installation will require a few minutes to complete.
 8. After the installation has completed, close the Visual Studio Installer window.
 ### Step 2: Installing Azure Data Lake Tools in Visual Studio Code
 We will be using Visual Studio Code as our source code editor of choice. To make Visual Studio Code compatible with U-SQL, we need to install the Azure Data Lake Tools extension. 
-1.  On the desktop the DSVM, locate and double-click the Visual Studio Code icon to open the application.
+1.  On the desktop the DSVM, locate and double-click the Visual Studio Code icon to open this application.
 2. 
 
 <a name="Exercise3"></a>
@@ -151,5 +151,5 @@ We will be using Visual Studio Code as our source code editor of choice. To make
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNjcwNDgxOV19
+eyJoaXN0b3J5IjpbLTY5ODk0ODM5MF19
 -->
