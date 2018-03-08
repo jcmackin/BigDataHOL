@@ -367,12 +367,16 @@ DECLARE @Bedrooms int = 1;
 Just as with the EXTRACT statement, variables in U-SQL must be TYPED to match their intended use. Most of the C# types are supported.
 
 The EXTRACT statement uses our previously generated data file as its input data file:
-
+```
+FROM "Listings-MyDates.csv"
+USING Extractors.Csv(skipFirstNRows: 1, silent:true) ;
+```
+The SELECT statement uses a short-form abbreviation, or alias, to select all (*) fields:
 
 xxxx shut down the virtual machine xxx
 
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDEwNTQyOF19
+eyJoaXN0b3J5IjpbNjIwMDk0NTc1XX0=
 -->
