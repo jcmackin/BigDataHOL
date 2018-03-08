@@ -3,14 +3,13 @@
 ## Overview ##
 In this hands-on lab (HOL), you will explore U-SQL, a big data language designed to query both structured and unstructured data at any scale. 
 
-In the lab, you are a developer helping to create an apartment rental app called ContosoBNB.  By querying a large dataset made available by [Airbnb](https://www.airbnb.com/).
-to help provide the following insights to these Airbnb users:
+In the lab, you are a developer helping to create an apartment rental app called ContosoBNB.  By querying a large dataset made available by [Airbnb](https://www.airbnb.com/), you hope to provide the following insights to eventual users of the ContosoBNB app:
 
 + Current rental rate ranges based on their property location and features.
 + Forecasted rental rates based upon occupancy rates.
 + Potential monthly and yearly revenue for renting a room.
 
-As the scraped dataset does not contain rental information, this last figure will be calculated from listing and review data. This determined occupancy rate will be used in calculations/queries.
+The dataset does not contain rental information, so this last figure will be calculated from listing and review data. This determined occupancy rate will be used in calculations/queries.
 
 ### Objectives
 In this hands-on lab, you will:
@@ -140,5 +139,5 @@ Before you can begin to
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTc2NTU3ODVdfQ==
+eyJoaXN0b3J5IjpbODQ1MDg1NjM0XX0=
 -->
