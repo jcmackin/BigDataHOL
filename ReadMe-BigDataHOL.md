@@ -419,7 +419,7 @@ If you customize your DSVM and add spreadsheet application such as Excel to the 
 8.  Try changing the query parameter values to see different output results. Here are some good options to try:
 
 ```
-| Tables        | Are           | Cool  |Tables        | Are           | Cool  |
+|Tables        | Are           | Cool  |Tables        | Are           | Cool  |
 |:-------------:|:-------------:|:-----:|:-------------:|:-------------:|:-----:|
 | col 3 is      | right-aligned | $1600 |:col 3 is :| right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
@@ -431,5 +431,5 @@ xxxx shut down the virtual machine xxx
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwOTM3OTAyM119
+eyJoaXN0b3J5IjpbLTU0MTI5MTQ5MV19
 -->
