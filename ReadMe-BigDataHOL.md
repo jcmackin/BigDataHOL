@@ -354,7 +354,7 @@ In this exercise, you’ll see how parameters may be used in U-SQL. By comparing
 
 ![matching](img/matching.jpg)
 
-
+2. Review the 
 
 
 xxxx shut down the virtual machine xxx
@@ -362,5 +362,5 @@ xxxx shut down the virtual machine xxx
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjA3NzM0MF19
+eyJoaXN0b3J5IjpbMzg0Nzc1MTQ1XX0=
 -->
