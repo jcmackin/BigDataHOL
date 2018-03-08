@@ -342,7 +342,7 @@ All fields in an Extract statement should be cast as the data type you’ll need
 5. After about 30 seconds, the script now executes successfully, and produces the data file called Listings-MyDates.csv in the Data folder.
 
 
-
+6. Click on the data file and take a look at the contents. There are many fields and listings for a variety of states, cities, & neighborhoods. Even with our date limit applied, there is still a lot of data to work with. Try modifying the dates and running the script. Since we use the DateTime type, U-SQL will recognize all of the different ways of entering dates, in both the data file and the script comparison code.
 
 
 
@@ -356,5 +356,5 @@ All fields in an Extract statement should be cast as the data type you’ll need
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODQwMTcwNV19
+eyJoaXN0b3J5IjpbMTQxMDMwMzcxXX0=
 -->
