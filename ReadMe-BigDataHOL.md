@@ -61,7 +61,7 @@ In this exercise, you will create an instance of the DSVM for Windows in Azure. 
 ![CreateResource](img/CreateResource.jpg)
 3.  In the **Search** field, type **data science**. From the list of matching results, click **Data Science Virtual Machine - Windows 2012**.
 ![FindDSVM-win](img/FindDSVM-win.jpg)
-4.  Take a few moments to read the description of the DSVM for Linux (Ubuntu), and then click **Create**.
+4.  Take a few moments to read the description of the DSVM, and then click **Create**.
 
 5.  In the **Name** field, enter a name for your VM; for example, **MyDSVM**.
 
@@ -98,5 +98,5 @@ At this stage, the Choose a Size page appears. Proceed to the next step.
 
 7.  The **Start** button is not available, indicating that the new VM has already started.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NDQ0MDExN119
+eyJoaXN0b3J5IjpbMTgxNTc4MzAyMl19
 -->
