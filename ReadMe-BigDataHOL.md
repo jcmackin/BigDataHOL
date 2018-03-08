@@ -421,7 +421,7 @@ If you customize your DSVM and add spreadsheet application such as Excel to the 
 ```
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |:col 3 is     | right-aligned | $1600 |
+| col 3 is      | right-aligned | $1600 |:col 3 is :| right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 ```
@@ -431,5 +431,5 @@ xxxx shut down the virtual machine xxx
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDM2MzMwMTRdfQ==
+eyJoaXN0b3J5IjpbMTQ1NjA3MzkyOF19
 -->
