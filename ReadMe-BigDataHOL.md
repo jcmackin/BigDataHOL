@@ -1,7 +1,7 @@
 # Big data hands-on lab (HOL) #
 <a name="Overview"></a>
 ## Overview ##
-This hands-on lab (HOL) is based on a web application called ContosoBNB, which itself is modeled on a short-term vacation rental platform like [Airbnb](https://www.airbnb.com/).
+This hands-on lab (HOL) is based on a sample web application called ContosoBNB, which draws upon a public dataset made available by [Airbnb](https://www.airbnb.com/).
 
 In this hands-on lab, you will create various Big Data queries that are designed to provide the following insights to these Airbnb users:
 
@@ -139,5 +139,5 @@ Before you can begin to
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTE4NDM3NDRdfQ==
+eyJoaXN0b3J5IjpbLTM0ODQ5NTQzNV19
 -->
