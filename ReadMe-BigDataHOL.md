@@ -345,12 +345,8 @@ All fields in an Extract statement should be cast as the data type you’ll need
 6. Click on the data file and take a look at the contents. There are many fields and listings for various states, cities, and neighborhoods. Even with our date limit applied, there is still a lot of data to work with. 
 
 
-
-
-
-
 <a name="Exercise4"></a>
-## Exercise 4: xxxxx
+## Exercise 4: xxx
 
 
 
@@ -358,5 +354,5 @@ All fields in an Extract statement should be cast as the data type you’ll need
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDg3ODE0NjJdfQ==
+eyJoaXN0b3J5IjpbNzQwMTI1OTM4XX0=
 -->
