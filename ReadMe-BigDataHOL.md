@@ -141,9 +141,14 @@ Visual Studio Code opens, along with a web page about Visual Studio Code and a d
 
 3.  In Visual Studio Code, click the **Extensions** icon in the left pane.
 
-![VSCodeExtension\](img/VSCext.jpg)
+![VSCodeExtension](img/VSCext.jpg)
 
 
+4. In the search box in the top left of the window, enter **Azure Data Lake**
+
+<!\[if !supportLists\]>5. <!\[endif\]>Click **Install** next to Azure Data Lake tools.
+
+,6 ^O!
 
 
 <a name="Exercise3"></a>
@@ -161,5 +166,5 @@ Visual Studio Code opens, along with a web page about Visual Studio Code and a d
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDg2MzU2NThdfQ==
+eyJoaXN0b3J5IjpbNTYwNTQ3MzU4XX0=
 -->
