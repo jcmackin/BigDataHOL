@@ -140,8 +140,8 @@ Visual Studio Code opens, along with a web page about Visual Studio Code and a d
 2. In the dialog box for Internet Explorer, click OK to accept the recommended settings.
 
 4. In the web browser that has opened, take a few moments to read the description of Visual Studio Code that appears, and then close the page.
-5. 
-6. sdfsadf
+
+1.  In Visual Studio Code, click the **Extensions** icon in the left pane.
 
 <a name="Exercise3"></a>
 ## Exercise 3: xxxxx
@@ -158,5 +158,5 @@ Visual Studio Code opens, along with a web page about Visual Studio Code and a d
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzExMzE1OF19
+eyJoaXN0b3J5IjpbLTMzOTE4MTkzNl19
 -->
