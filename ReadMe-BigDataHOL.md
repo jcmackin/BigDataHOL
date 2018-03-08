@@ -60,28 +60,28 @@ In this exercise, you will create an instance of the DSVM for Windows in Azure. 
 1.  In a web browser, open the [Azure portal](https://portal.azure.com/) at [https://portal.azure.com](https://portal.azure.com/), and then sign in with your Microsoft account.
 
 2.  From the left-side menu, click the **+** sign to add a new resource.
-
+![xxx](test.jpg
 3.  In the **Search** field, type **data science**. From the list of matching results, click **Data Science Virtual Machine for Linux (Ubuntu)**.
 
-5.  Take a few moments to read the description of the DSVM for Linux (Ubuntu), and then click **Create**.
+4.  Take a few moments to read the description of the DSVM for Linux (Ubuntu), and then click **Create**.
 
-6.  In the **Name** field, enter a name for your VM; for example, **MyDSVM**.
+5.  In the **Name** field, enter a name for your VM; for example, **MyDSVM**.
 
-7.  In the **VM disk type** field, select **SSD**.
+6.  In the **VM disk type** field, select **SSD**.
 
-8.  In the **User Name** field, type a user name of your choice. Save this information, because you will use it to sign in to the VM later.
+7.  In the **User Name** field, type a user name of your choice. Save this information, because you will use it to sign in to the VM later.
 
-9.  For **Authentication Type**, select **Password**.
+8.  For **Authentication Type**, select **Password**.
 
-10.  In the **Password** field, enter a password of your choice. Save this information, because you will use it to sign in to the VM later.
+9.  In the **Password** field, enter a password of your choice. Save this information, because you will use it to sign in to the VM later.
 
-11.  In the **Subscription** drop-down menu, select your subscription.
+10.  In the **Subscription** drop-down menu, select your subscription.
 
-12.  In the **Resource Group** section, leave **Create New** selected, and then enter a name of your choice for the resource group in the field below; for example, **DataScienceGroup1**.
+11.  In the **Resource Group** section, leave **Create New** selected, and then enter a name of your choice for the resource group in the field below; for example, **DataScienceGroup1**.
 
-13.  In the **Location** drop-down menu, ensure that a geographically close location is chosen.
+12.  In the **Location** drop-down menu, ensure that a geographically close location is chosen.
 
-14.  Click **OK**.
+13.  Click **OK**.
 At this stage, the Choose a Size page appears. Proceed to the next step.
 
 ### Step 2: Sizing the new VM and reviewing settings
@@ -100,5 +100,5 @@ At this stage, the Choose a Size page appears. Proceed to the next step.
 
 7.  The **Start** button is not available, indicating that the new VM has already started.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3OTM1NzY5XX0=
+eyJoaXN0b3J5IjpbLTE4MTI3ODAzOF19
 -->
