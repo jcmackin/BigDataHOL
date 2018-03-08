@@ -208,6 +208,11 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 
 ![ADLstart](img/ADLstart.jpg)  
 
+3. At the top of the screen, click Accept to accept the Microsoft Software License Terms and download the USQL SDK.
+
+![accept](img/accept.jpg)
+
+4. 
 
 
 <a name="Exercise3"></a>
@@ -225,5 +230,5 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczMDQ0NjVdfQ==
+eyJoaXN0b3J5IjpbODE1Nzk1ODM0XX0=
 -->
