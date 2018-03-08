@@ -204,6 +204,8 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 ### Step 4: Start and configure the Azure Data Lake local run service
 1. In Visual Studio Code, from the **View** menu, select **Command Palette**. (If you are on a PC, you can open the Command Palette with the keystroke Ctrl+Shift+P.)
 
+2. At the prompt, Type **ADL: Start**, and then select **ADL: Start Local Run Service** from the drop-down list. 
+
 <a name="Exercise3"></a>
 ## Exercise 3: xxxxx
 
@@ -219,5 +221,5 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc0ODI1NTgyXX0=
+eyJoaXN0b3J5IjpbLTUyMjA4MzQ2Ml19
 -->
