@@ -155,6 +155,8 @@ The Azure Data Lake Tools extension will install. The process will take a few mo
 
 ![ADLTreload](img/ADLTreload.jpg)
 
+You can now see Azure Data Lake Tools in the Extensions pane.
+
 7. asdfas 
 8. asdfasdf
 
@@ -174,5 +176,5 @@ The Azure Data Lake Tools extension will install. The process will take a few mo
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTUxODg3MF19
+eyJoaXN0b3J5IjpbMTAxMDgzNTM2MV19
 -->
