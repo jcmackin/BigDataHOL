@@ -355,8 +355,15 @@ In this exercise, you’ll see how parameters may be used in U-SQL. By comparing
 ![matching](img/matching.jpg)
 
 2. Within the script, review the DECLARE, EXTRACT, and SELECT statements, along with the WHERE clause.
-
-
+```
+// Populate our search term variables:
+DECLARE @State string = "WA"; // WA, CA, TX, or DC 
+DECLARE @City string = "Seattle"; // Seattle, Austin, Los Angeles, or Washington
+DECLARE @Neighbourhood string = "Capitol Hill";
+DECLARE @Property_type string = "Apartment"; // "Private room" or "Entire home/apt"
+DECLARE @Room_type string = "Entire home/apt"; // "Entire home/apt", "Shared room",  or "Private room"
+DECLARE @Bedrooms int = 1;
+```
 
 
 xxxx shut down the virtual machine xxx
@@ -364,5 +371,5 @@ xxxx shut down the virtual machine xxx
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDkzMzEyMTJdfQ==
+eyJoaXN0b3J5IjpbLTU4NTY3OTAxM119
 -->
