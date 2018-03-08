@@ -310,6 +310,19 @@ WHERE last_review BETWEEN
 ```
 ### Step 2: Running the Listings-MyDates.usql script
 
+1. In Visual Studio Code, at the top of the window, close any open messages or notifications.
+2.  right-click anywhere in the script text and then select ADL: Submit Job
+
+
+
+
+
+
+
+
+
+
+
 
 <a name="Exercise4"></a>
 ## Exercise 4: xxxxx
@@ -320,5 +333,5 @@ WHERE last_review BETWEEN
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNzExMjAyXX0=
+eyJoaXN0b3J5IjpbMTg2NDU1NTE1XX0=
 -->
