@@ -347,7 +347,10 @@ All fields in an Extract statement should be cast as the data type you’ll need
 
 
 <a name="Exercise4"></a>
-## Exercise 4: Modify a query to find listings for a specific area using parameters
+## Exercise 4: Modify a query to find listings for a specific area
+In this exercise, you’ll see how parameters may be used in U-SQL. By comparing parameter values to field values in a SELECT statement, we can limit the output results of our script even further. We want to locate listing information for a specific type of listing, so we need parameters for: state, city, neighborhood, property type, room type, and bedroom count. 
+
+1. In Visual Studio Code, locate and click the script called Listings-MatchingSearchTerms.usql:
 
 
 xxxx shut down the virtual machine xxx
@@ -355,5 +358,5 @@ xxxx shut down the virtual machine xxx
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDM4NzI2OV19
+eyJoaXN0b3J5IjpbLTcxNzM4MzY3MV19
 -->
