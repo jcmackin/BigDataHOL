@@ -39,8 +39,6 @@ This lab makes use of an existing dataset (released under public domain) to mode
 
 This hands-on lab includes the following exercises:
 
-<!\[endif\]-->
-
 -   [Exercise 1: Create a DSVM](https://github.com/ProwessInfo/AzureUniversityRedShirt/tree/master/Challenges/MachineLearningHOL#Exercise1)
 -   [Exercise 2: Install MS Code with Azure Data Lake Local Run Service & Git](https://github.com/ProwessInfo/AzureUniversityRedShirt/tree/master/Challenges/BigDataHOL#Exercise1)
 -   [Exercise 3: Create U-SQL queries to view Rental Listings and Review information](https://github.com/ProwessInfo/AzureUniversityRedShirt/tree/master/Challenges/BigDataHOL#Exercise2)
@@ -62,7 +60,7 @@ In this exercise, you will create an instance of the DSVM for Windows in Azure. 
 2.  From the left-side menu, click the **+** sign to add a new resource.
 ![CreateResource](img/CreateResource.jpg)
 3.  In the **Search** field, type **data science**. From the list of matching results, click **Data Science Virtual Machine for Linux (Ubuntu)**.
-
+![FindDSVM-win](img/FindDSVM-win.jpg)
 4.  Take a few moments to read the description of the DSVM for Linux (Ubuntu), and then click **Create**.
 
 5.  In the **Name** field, enter a name for your VM; for example, **MyDSVM**.
@@ -100,5 +98,5 @@ At this stage, the Choose a Size page appears. Proceed to the next step.
 
 7.  The **Start** button is not available, indicating that the new VM has already started.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MzY0Njg5M119
+eyJoaXN0b3J5IjpbLTEwOTQ0NzA4NzNdfQ==
 -->
