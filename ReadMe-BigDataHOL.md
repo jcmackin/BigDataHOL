@@ -245,7 +245,7 @@ Visual Studio Code is now configured to run U-SQL queries locally.
 <a name="Exercise3"></a>
 ## Exercise 3: Create U-SQL queries to view Rental Listings and Review information
 
-
+The Data folder includes a file called listings.csv, which contains rental listing data for several different US cities. Let’s see how a U-SQL script can be used to analyze and output a smaller, more focused data set.
 
 
 
@@ -258,5 +258,5 @@ Visual Studio Code is now configured to run U-SQL queries locally.
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzcwMTc1NjFdfQ==
+eyJoaXN0b3J5IjpbNjM0ODEyMjk1XX0=
 -->
