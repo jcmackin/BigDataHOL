@@ -220,7 +220,7 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 
 ![lrs3](img/lrs3.jpg)
 
-6.  When prompted with the message **Enter a new DataRoot path**, enter the full path to the AzureHOLs\AzureUniversityRedShirt\Challenges\BigDataHOL\Data folder. For example, if you created the AzureHOLs folder on the desktop, you would enter the path C:\Users\yourusername\Desktop\AzureHOLs\AzureUniversityRedShirt\Challenges\BigDataHOL\Data
+6.  When prompted with the message **Enter a new DataRoot path**, enter the full path to the AzureHOLs\AzureUniversityRedShirt\Challenges\BigDataHOL\Data folder. For example, if you created the AzureHOLs folder on the desktop, you would enter the path C:\Users\\*yourusername*\Desktop\AzureHOLs\AzureUniversityRedShirt\Challenges\BigDataHOL\Data
 
 
 
@@ -240,5 +240,5 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODUzNzk3MDVdfQ==
+eyJoaXN0b3J5IjpbNDc5ODQ3MjUzXX0=
 -->
