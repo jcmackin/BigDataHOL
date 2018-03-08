@@ -201,7 +201,7 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 
 6. Click **Close** on all open notifications that appear at the top of the window in Visual Studio Code.
 
-### Step 4: Start the Azure Data Lake local run service
+### Step 4: Start and configure the Azure Data Lake local run service
 1. 
 
 <a name="Exercise3"></a>
@@ -219,5 +219,5 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODg4ODY1MDldfQ==
+eyJoaXN0b3J5IjpbMjMyOTUyNTkyXX0=
 -->
