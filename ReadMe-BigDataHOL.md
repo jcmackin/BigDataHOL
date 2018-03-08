@@ -65,8 +65,6 @@ In this exercise, you will create an instance of the DSVM for Windows in Azure. 
 ![CreateDSVM](img/CreateDSVM.jpg)
 5.  In the **Name** field, enter a name for your VM; for example, **WinDSVM**.
 
-6.  In the **VM disk type** field, select **SSD**.
-
 7.  In the **User Name** field, type a user name of your choice. Save this information, because you will use it to sign in to the VM later.
 
 8.  For **Authentication Type**, select **Password**.
@@ -98,5 +96,5 @@ At this stage, the Choose a Size page appears. Proceed to the next step.
 
 7.  The **Start** button is not available, indicating that the new VM has already started.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDE3ODAxODVdfQ==
+eyJoaXN0b3J5IjpbLTEyMjI4NDQzXX0=
 -->
