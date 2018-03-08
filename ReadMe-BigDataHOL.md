@@ -5,6 +5,7 @@ In this hands-on lab (HOL), you will explore U-SQL, a big data language designed
 
 The lab draws upon a large dataset made available by [Airbnb](https://www.airbnb.com/).
 
+You will use this dataset to help ContosoBNB xxx
 create various Big Data queries that are designed to provide the following insights to these Airbnb users:
 
 + Current rental rate ranges based on their property location and features.
@@ -141,5 +142,5 @@ Before you can begin to
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTk2MzQ0MjRdfQ==
+eyJoaXN0b3J5IjpbLTk0NjQ2MTU2NV19
 -->
