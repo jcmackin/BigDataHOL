@@ -181,6 +181,10 @@ You can now see Azure Data Lake Tools in the Extensions pane.
 
 3.	Switch to Visual Studio Code. In Visual Studio Code, select File>Open Folder, navigate to the AzureHOLs\AzureUniversityRedShirt\Challenges\BigDataHOL folder, and then click Select Folder. 
 
+This step sets Visual Studio Code’s current working folder. The results should look similar to the following:
+
+
+
 <a name="Exercise3"></a>
 ## Exercise 3: xxxxx
 
@@ -196,5 +200,5 @@ You can now see Azure Data Lake Tools in the Extensions pane.
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjE4ODIzMl19
+eyJoaXN0b3J5IjpbMTM1MTczMzYzNV19
 -->
