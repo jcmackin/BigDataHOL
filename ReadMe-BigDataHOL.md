@@ -354,7 +354,9 @@ In this exercise, you’ll see how parameters may be used in U-SQL. By comparing
 
 ![matching](img/matching.jpg)
 
-2. Review the Declare following sections of the script.
+2. Within the script, review the DECLARE, EXTRACT, and SELECT statements, along with the WHERE clause.
+
+
 
 
 xxxx shut down the virtual machine xxx
@@ -362,5 +364,5 @@ xxxx shut down the virtual machine xxx
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwNTg0Njg3XX0=
+eyJoaXN0b3J5IjpbLTE3NDkzMzEyMTJdfQ==
 -->
