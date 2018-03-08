@@ -243,7 +243,7 @@ Visual Studio Code is now configured to run U-SQL queries locally.
 
 
 <a name="Exercise3"></a>
-## Exercise 3: View Rental Listings and Review information
+## Exercise 3: View rental listings
 
 The Data folder includes a file called listings.csv, which contains rental listing data for several different US cities. Let’s see how a U-SQL script can be used to analyze and output a smaller, more focused data set.
 
@@ -354,5 +354,5 @@ All fields in an Extract statement should be cast as the data type you’ll need
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTI5OTAxMV19
+eyJoaXN0b3J5IjpbMTQ1NjEzNzA4NF19
 -->
