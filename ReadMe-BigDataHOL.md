@@ -339,7 +339,7 @@ All fields in an Extract statement should be cast as the data type you’ll need
 , last_review DateTime
 ```
 
-5. The script now executes successfully, and produces the data file called Listings-MyDates.csv:
+5. After about 30 seconds, the script now executes successfully, and produces the data file called Listings-MyDates.csv:
 
 
 
@@ -356,5 +356,5 @@ All fields in an Extract statement should be cast as the data type you’ll need
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODQ5MTAyMF19
+eyJoaXN0b3J5IjpbMTM0OTUyMDkxXX0=
 -->
