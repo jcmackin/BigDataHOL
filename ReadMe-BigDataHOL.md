@@ -101,9 +101,10 @@ The Create page appears, displaying offer details and summary information.
 7.  The **Start** button is not available, indicating that the new VM has already started.
 
 ### Step 3: Connecting to the new VM
-1. On the control bar for your new VM, click **Connect**.
+1. If you are on a Mac, download and install [Microsoft Remote Desktop 10](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) from 
+2. On the control bar for your new VM, click **Connect**.
 ![Connect](img/Connect.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MzgyODUzMl19
+eyJoaXN0b3J5IjpbMTkxNzg5MTMxXX0=
 -->
