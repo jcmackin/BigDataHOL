@@ -400,12 +400,16 @@ After about 20 seconds, the script fails. Why? Because we have a NULL value in o
 
 4.  At line 21, locate the INT data type of the bedrooms column. INT doesn’t support NULLs. 
 
+```
 , bedrooms  int
+```
+Simply adding a “**?**” to the end of the type will allow for NULLs. Not all types support this feature, but INT does. 
 
+Change the line to read as below:
 xxxx shut down the virtual machine xxx
 
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDA1MTIwOV19
+eyJoaXN0b3J5IjpbLTEyMzA1NzAyMzZdfQ==
 -->
