@@ -157,10 +157,10 @@ The Azure Data Lake Tools extension will install. The process will take a few mo
 
 You can now see Azure Data Lake Tools in the Extensions pane.
 
-7. asdfas 
-8. asdfasdf
 
-### Step 3: Download the lab files and script dependencies  in Visual Studio Code
+### Step 3: Download the lab files and script dependencies in Visual Studio Code
+
+
 
 <a name="Exercise3"></a>
 ## Exercise 3: xxxxx
@@ -177,5 +177,5 @@ You can now see Azure Data Lake Tools in the Extensions pane.
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzA3NzQ0MF19
+eyJoaXN0b3J5IjpbOTI4ODI3NzU5XX0=
 -->
