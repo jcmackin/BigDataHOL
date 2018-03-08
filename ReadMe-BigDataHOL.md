@@ -110,11 +110,11 @@ This step downloads an RDP file through your browser.
 
 3. Open the RDP file.
 
-If you are on a Windows computer, you can open the RDP file through the browser. Click **Connect** when prompted.
+4. If you are on a Windows computer, you can open the RDP file through the browser. Click **Connect** when prompted, then supply the credentials you specified in step 1 of this exercise when prompted, and finally 
 
-If you are on a Mac, save the RDP file to a convenient location, and then open the file.  If you are prompted to verify a certificate, click **Continue**. Enter the credentials you specified in the step 1 when prompted.
+5. If you are on a Mac, save the RDP file to a convenient location, and then open the file.  If you are prompted to verify a certificate, click **Continue**. Enter the credentials you specified in the step 1 when prompted.
 6.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTQwNDI3M119
+eyJoaXN0b3J5IjpbLTE3MzAwOTM0MTRdfQ==
 -->
