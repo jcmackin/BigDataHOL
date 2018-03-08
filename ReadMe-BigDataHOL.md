@@ -117,6 +117,7 @@ The DSVM contains the tools we need, but these tools are missing some components
 1. In the DSVM, right-click the Start button and select **Search** from the shortcut menu. 
 2. In the search box that opens xxx
 
+![DSVMdesktop](img/DSVMdesktop.jpg)
 
 
 <a name="Exercise3"></a>
@@ -134,5 +135,5 @@ The DSVM contains the tools we need, but these tools are missing some components
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0NDgzMTM0XX0=
+eyJoaXN0b3J5IjpbLTE0NDQxODE5MjVdfQ==
 -->
