@@ -46,7 +46,7 @@ This hands-on lab includes the following exercises:
 -   [Exercise 5: Combine queries to determine potential rental income](https://github.com/ProwessInfo/AzureUniversityRedShirt/tree/master/Challenges/BigDataHOL#Exercise5)
 
 
-
+<a name="Exercise1"></a>
 ## Exercise 1: Create a DSVM
 
 
@@ -119,5 +119,5 @@ This step downloads an RDP file through your browser.
 
 ## Exercise 2: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTg1NDAyXX0=
+eyJoaXN0b3J5IjpbLTI5MTE0MjYxOF19
 -->
