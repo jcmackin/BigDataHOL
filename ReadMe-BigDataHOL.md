@@ -347,7 +347,7 @@ All fields in an Extract statement should be cast as the data type you’ll need
 
 
 <a name="Exercise4"></a>
-## Exercise 4: Modify query to find listings for a specific area using parameters
+## Exercise 4: Modify a query to find listings for a specific area using parameters
 
 
 xxxx shut down the virtual machine xxx
@@ -355,5 +355,5 @@ xxxx shut down the virtual machine xxx
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NjcxOTk3NF19
+eyJoaXN0b3J5IjpbMTY4MDM4NzI2OV19
 -->
