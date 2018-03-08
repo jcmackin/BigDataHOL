@@ -177,11 +177,12 @@ You can now see Azure Data Lake Tools in the Extensions pane.
 ### Step 3: Download the lab files and script dependencies in Visual Studio Code
 
 1.	Create a new folder named AzureHOLs in any convenient location on the DSVM. You will use this folder to store lab files.
-2.	At a command prompt, navigate to the AzureHOLs folder, and then enter the following command: 
+2.	Right-click the Start button, and then select **Command Prompt** from the shortcut menu. 
+3.	At a command prompt, navigate to the AzureHOLs folder, and then enter the following command: 
 
 **git clone https://github.com/ProwessInfo/AzureUniversityRedShirt**
 
-3.	Switch to Visual Studio Code. In Visual Studio Code, select **File>Open Folder**, navigate to the AzureHOLs\AzureUniversityRedShirt\Challenges\BigDataHOL folder, and then click Select Folder. 
+4.	Switch to Visual Studio Code. In Visual Studio Code, select **File>Open Folder**, navigate to the AzureHOLs\AzureUniversityRedShirt\Challenges\BigDataHOL folder, and then click Select Folder. 
 
 This step sets Visual Studio Code’s current working folder. The results should look similar to the following:
 
@@ -218,5 +219,5 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1MjEyNDU2XX0=
+eyJoaXN0b3J5IjpbNTA0NjgyODg1XX0=
 -->
