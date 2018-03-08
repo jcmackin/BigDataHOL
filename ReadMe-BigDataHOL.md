@@ -1,13 +1,15 @@
 # Big data hands-on lab (HOL) #
 <a name="Overview"></a>
 ## Overview ##
-In this hands-on lab (HOL), you will explore U-SQL, a big data language designed to query both structured and unstructured data at any scale. 
+In this hands-on lab (HOL), you will explore U-SQL, a big data language designed to query both structured and unstructured data at any scale.  
+You learn how to run U-SQL jobs on a local development machine to speed up early coding phases or to debug code locally in Visual Studio Code.
 
 In the lab, you are a developer helping to create an apartment rental app called ContosoBNB.  By querying a large dataset made available by [Airbnb](https://www.airbnb.com/), you hope to provide the following insights to eventual users of the ContosoBNB app:
 
 + Current rental rate ranges based on their property location and features.
 + Forecasted rental rates based upon occupancy rates.
 + Potential monthly and yearly revenue for renting a room.
+
 
 ### Objectives
 In this hands-on lab, you will:
@@ -216,5 +218,5 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5OTQzMjQ1OF19
+eyJoaXN0b3J5IjpbLTIwMTAwMDI2ODZdfQ==
 -->
