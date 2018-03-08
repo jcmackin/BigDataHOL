@@ -101,8 +101,9 @@ The Create page appears, displaying offer details and summary information.
 7.  The **Start** button is not available, indicating that the new VM has already started.
 
 ### Step 3: Connecting to the new VM
-
+1. On the control bar for your new VM, click **Connect**.
+![Connect](img/Connect.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg5MzA4MjQ1XX0=
+eyJoaXN0b3J5IjpbMTM4MzgyODUzMl19
 -->
