@@ -235,10 +235,11 @@ The service restarts, and new prompt appears.
 These credentials are used to access the data files.
 The window should now appear something like this:
 
+**Important: Make sure you leave the LocalRunServer.exe terminal window open for the remainder of this lab.**
+
 ![lrsdone](img/lrsdone.jpg)
 
-
-
+Your DSVM is now set up to run U-SQL queries locally. 
 
 
 
@@ -261,5 +262,5 @@ The window should now appear something like this:
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NDQ1NjQzNF19
+eyJoaXN0b3J5IjpbMzUyMTE4MDE0XX0=
 -->
