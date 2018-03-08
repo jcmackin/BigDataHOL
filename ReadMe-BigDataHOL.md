@@ -372,11 +372,17 @@ FROM "Listings-MyDates.csv"
 USING Extractors.Csv(skipFirstNRows: 1, silent:true) ;
 ```
 The SELECT statement uses a short-form abbreviation, or alias, to select all (*) fields:
+```
+SELECT al.*
+FROM @AllListings AS al // Using "al" as an alias for @AllListings
+```
+The WHERE clause of the SELECT statement compares the parameter values to the field values. If they match, then the record is included in the output:
+
 
 xxxx shut down the virtual machine xxx
 
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIwMDk0NTc1XX0=
+eyJoaXN0b3J5IjpbLTE3MDU2MDk5OTBdfQ==
 -->
