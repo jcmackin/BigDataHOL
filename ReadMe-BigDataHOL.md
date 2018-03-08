@@ -179,7 +179,7 @@ You can now see Azure Data Lake Tools in the Extensions pane.
 
 **git clone https://github.com/ProwessInfo/AzureUniversityRedShirt**
 
-3.	Switch to Visual Studio Code. In Visual Studio Code, select File>Open Folder, navigate to the AzureHOLs\AzureUniversityRedShirt\Challenges\BigDataHOL folder, and then click Select Folder. 
+3.	Switch to Visual Studio Code. In Visual Studio Code, select **File>Open Folder**, navigate to the AzureHOLs\AzureUniversityRedShirt\Challenges\BigDataHOL folder, and then click Select Folder. 
 
 This step sets Visual Studio Code’s current working folder. The results should look similar to the following:
 
@@ -195,7 +195,8 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 5. If your system has not previously downloaded these dependencies, you will see a Warn message at the top of the window indicating that the binary dependences are being downloaded. After about 2 minutes, you will see a message at the top of the screen indicating that dependencies have completed downloading.
 
 ![dependencies](img/dependencies.jpg)  
-7. sdfgsd
+
+6. Click **Close** on all open notifications that appear at the top of the window in Visual Studio Code.
 
 8. sdfgs
 
@@ -216,5 +217,5 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjc3MTM1MjVdfQ==
+eyJoaXN0b3J5IjpbLTE3MDUyODY0NTJdfQ==
 -->
