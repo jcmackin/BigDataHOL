@@ -202,7 +202,7 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 6. Click **Close** on all open notifications that appear at the top of the window in Visual Studio Code.
 
 ### Step 4: Start and configure the Azure Data Lake local run service
-1. In Visual Studio Code, from the View menu, select Command Palette. Enter the keystroke Ctrl+Shift+P to open the command palette
+1. In Visual Studio Code, from the **View** menu, select **Command Palette**. (If you are on a PC, you can open the Command Palette with the keystroke Ctrl+Shift+P.)
 
 <a name="Exercise3"></a>
 ## Exercise 3: xxxxx
@@ -219,5 +219,5 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MDY1MjA2Ml19
+eyJoaXN0b3J5IjpbNDc0ODI1NTgyXX0=
 -->
