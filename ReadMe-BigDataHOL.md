@@ -119,8 +119,7 @@ This step downloads an RDP file through your browser.
 
 <a name="Exercise2"></a>
 ## Exercise 2: xxxxx
-
-
+Before you can begin to 
 
 
 
@@ -141,5 +140,5 @@ This step downloads an RDP file through your browser.
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNDI5Njk2M119
+eyJoaXN0b3J5IjpbMTUxMjU1NDUyMV19
 -->
