@@ -333,7 +333,13 @@ The script now runs and after about 45 seconds, it fails. This is because the **
 
 All fields in an Extract statement should be cast as the data type you’ll need to work with. To resolve this issue, we need to indicate that the field should be extracted as a DateTime type instead of string. We do this by changing **String** to **DateTime** in the Extract statement.
 
-4.  Edit the script so that, at line 15, the data type specified is **DateTime** (as shown below) and then re-submit the script:
+4.  Edit the script so that, at line 15, the data type specified is **DateTime** (as shown below), and then re-submit the script:
+
+```
+xxxx
+```
+
+5. 
 
 
 
@@ -350,5 +356,5 @@ All fields in an Extract statement should be cast as the data type you’ll need
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2NDU1NzNdfQ==
+eyJoaXN0b3J5IjpbLTIwODQzNTAwNDJdfQ==
 -->
