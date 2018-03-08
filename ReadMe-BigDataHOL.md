@@ -410,13 +410,15 @@ Simply adding a “**?**” to the end of the type will allow for NULLs. Not all
 ```
 , bedrooms  int?
 ```
-6.  Execute the script and after 20 seconds or so, you’ll see the output file appear in the Data folder of Visual Studio Code:
+6.  Execute the script and after 20 seconds or so, you’ll see the Listings-MatchingSearchTerms.csv output file appear in the Data folder of Visual Studio Code.
 
+7.  Click the file and take a look at the results. Opening in Excel or any spreadsheet app, makes it a lot easier to read the columns.
+Try changing the parameter values to see different output results. Here are some good options to try:
 
 xxxx shut down the virtual machine xxx
 
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODIxMDI2MF19
+eyJoaXN0b3J5IjpbLTIwODk0NjYzMjldfQ==
 -->
