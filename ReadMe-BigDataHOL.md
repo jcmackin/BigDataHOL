@@ -139,7 +139,12 @@ Visual Studio Code opens, along with a web page about Visual Studio Code and a d
 
 2. Close all open windows except for Visual Studio Code.
 
-1.  In Visual Studio Code, click the **Extensions** icon in the left pane.
+3.  In Visual Studio Code, click the **Extensions** icon in the left pane.
+
+![VSCodeExtension\](img/VSCext.jpg)
+
+
+
 
 <a name="Exercise3"></a>
 ## Exercise 3: xxxxx
@@ -156,5 +161,5 @@ Visual Studio Code opens, along with a web page about Visual Studio Code and a d
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3OTY4ODg0MV19
+eyJoaXN0b3J5IjpbLTE5NDg2MzU2NThdfQ==
 -->
