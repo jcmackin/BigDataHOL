@@ -67,8 +67,6 @@ In this exercise, you will create an instance of the DSVM for Windows in Azure. 
 ![CreateDSVM2](img/CreateDSVM2.jpg)
 7.  In the **User Name** field, type a user name of your choice. Save this information, because you will use it to sign in to the VM later.
 
-8.  For **Authentication Type**, select **Password**.
-
 9.  In the **Password** field, enter a password of your choice. Save this information, because you will use it to sign in to the VM later.
 
 10.  In the **Subscription** drop-down menu, select your subscription.
@@ -96,5 +94,5 @@ At this stage, the Choose a Size page appears. Proceed to the next step.
 
 7.  The **Start** button is not available, indicating that the new VM has already started.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4ODM1OTI2OF19
+eyJoaXN0b3J5IjpbLTE1OTQ2MzQ4MjJdfQ==
 -->
