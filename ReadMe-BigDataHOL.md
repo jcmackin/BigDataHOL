@@ -136,8 +136,9 @@ We will be using Visual Studio Code as our source code editor of choice. To make
 1.  On the desktop the DSVM, locate and double-click the Visual Studio Code icon to open this application.
 Visual Studio Code opens, along with a web page about Visual Studio Code and a dialog box about Internet Explorer settings.  
 2. Click OK to accept the recommended settings.
-3. Take a few moments to read the description of Visual Studio Code, and  for Internet Explorer, and then close Internet Explorer
-4. Close other open windows so that only Visual Studio Code is open.
+3. Take a few moments to read the description of Visual Studio Code, and then close Internet Explorer
+4. 
+5. sdfsadf
 
 <a name="Exercise3"></a>
 ## Exercise 3: xxxxx
@@ -154,5 +155,5 @@ Visual Studio Code opens, along with a web page about Visual Studio Code and a d
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MDc0MjUzMV19
+eyJoaXN0b3J5IjpbLTM2MDA3NjkwOF19
 -->
