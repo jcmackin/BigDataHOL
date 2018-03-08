@@ -149,6 +149,10 @@ Visual Studio Code opens, along with a web page about Visual Studio Code and a d
 
 ![ADLsearch](img/ADLsearch.jpg)
 
+The Azure Data Lake Tools extension will install. The process will take a few moments.
+
+6. Click Reload to activate the Azure Data Lake tools extension.
+
 6. asdf
 8. asdfa
 
@@ -170,5 +174,5 @@ Visual Studio Code opens, along with a web page about Visual Studio Code and a d
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3MjQxNjc0XX0=
+eyJoaXN0b3J5IjpbMTIyMzg4MjIwNV19
 -->
