@@ -81,7 +81,7 @@ At this stage, the Choose a Size page appears. Proceed to the next step.
 ### Step 2: Sizing the new VM and reviewing settings
 
 1.  On the **Choose A Size** page, click **View All**.
-
+![ChooseSize](img/ChooseSize.jpg)
 2.  In the list of available VM types, select **DS1_V2 Standard**.
 
 3.  Click **Select**.
@@ -94,5 +94,5 @@ At this stage, the Choose a Size page appears. Proceed to the next step.
 
 7.  The **Start** button is not available, indicating that the new VM has already started.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQ2MzQ4MjJdfQ==
+eyJoaXN0b3J5IjpbMzIxMzMxNjAzXX0=
 -->
