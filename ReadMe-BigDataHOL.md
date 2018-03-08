@@ -111,7 +111,7 @@ This step downloads an RDP file through your browser.
 
 <a name="Exercise2"></a>
 ## Exercise 2: Preparing the environment
-The DSVM contains the tools we need, but it is missing some components by default.  Before you can perform U-SQL queries in our source code editor Visual Studio Code, you will need to download and install an additional Visual Studio component, as well as    
+The DSVM contains the tools we need, but these tools are missing some components by default.  Before you can perform U-SQL queries in our source code editor Visual Studio Code, you will need to download and install an additional Visual Studio component, as well as the Azure Data Lake Tools   
 
 
 
@@ -132,5 +132,5 @@ The DSVM contains the tools we need, but it is missing some components by defaul
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTk3MjE3NDVdfQ==
+eyJoaXN0b3J5IjpbLTE0MTc3NjM2MzBdfQ==
 -->
