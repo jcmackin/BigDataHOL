@@ -106,8 +106,8 @@ The Create page appears, displaying offer details and summary information.
 3. On the control bar for your new VM, click **Connect**.
 ![Connect](img/Connect.jpg)
 
-4. If you are on a Mac, save the .RDP file to a convenient location, and then open the file. 
+4. If you are on a Mac, save the .RDP file to a convenient location, and then open the file.  If you are prompted 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MDkwMjA3M119
+eyJoaXN0b3J5IjpbLTk2NzI0OTc5Nl19
 -->
