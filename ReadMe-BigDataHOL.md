@@ -149,7 +149,7 @@ Visual Studio Code opens, along with a web page about Visual Studio Code and a d
 
 ![ADLsearch](img/ADLsearch.jpg)
 
-7. asdf
+6. asdf
 8. asdfa
 
 ,6 ^O!
@@ -170,5 +170,5 @@ Visual Studio Code opens, along with a web page about Visual Studio Code and a d
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjc2MjE5OV19
+eyJoaXN0b3J5IjpbOTY3MjQxNjc0XX0=
 -->
