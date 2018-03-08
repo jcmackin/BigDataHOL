@@ -195,7 +195,7 @@ You now need to trigger Visual Studio Code to install dependencies needed to con
 
 If you see a Windows Security Alert that informs you that Windows Defender Firewall has blocked some features of this app, click Allow Access.  
 
-5. If your system has not previously downloaded these dependencies, you will see a Warn message at the top of the window indicating that the binary dependences are being downloaded. After about 2 minutes, you will see a message at the top of the screen indicating that dependencies have completed downloading.
+5. If your system has not previously downloaded these dependencies, you will see a Warn message at the top of the window indicating that the binary dependences are being downloaded. After a few moments, you will see a message at the top of the screen indicating that dependencies have completed downloading.
 
 ![dependencies](img/dependencies.jpg)  
 
@@ -219,5 +219,5 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0NjgyODg1XX0=
+eyJoaXN0b3J5IjpbLTE0ODg4ODY1MDldfQ==
 -->
