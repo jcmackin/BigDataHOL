@@ -263,6 +263,28 @@ The Data folder includes a file called listings.csv, which contains rental listi
 
 The EXTRACT statement below, from our script, reads records from the file called Listings.csv into the variable @AllListings:
 
+@AllListings =
+EXTRACT
+  id string
+, neighbourhood  string
+, city  string
+, state  string
+, zipcode  string
+, property_type  string
+, room_type  string
+, bedrooms  string
+, price  string
+, last_review string
+, review_scores_rating  string
+, review_scores_value  string
+, reviews_per_month string
+, availability_30 string
+, availability_365  string
+FROM "Listings.csv"
+USING Extractors.Csv(skipFirstNRows: 1, silent:true) ;
+
+
+
 <a name="Exercise4"></a>
 ## Exercise 4: xxxxx
 
@@ -272,5 +294,5 @@ The EXTRACT statement below, from our script, reads records from the file called
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MjM4MDEwM119
+eyJoaXN0b3J5IjpbLTEwMzQ1NDg2ODZdfQ==
 -->
