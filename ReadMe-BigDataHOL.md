@@ -110,11 +110,12 @@ This step downloads an RDP file through your browser.
 
 3. Open the RDP file and connect to the DSVM.
 
-4. If you are on a Windows computer, you can open the RDP file through the browser. Click **Connect** when prompted, then supply the credentials you specified in step 1 of this exercise when prompted, and finally click Yes to accept the certificate.
+- If you are on a Windows computer, you can open the RDP file through the browser. Click **Connect** when prompted, then supply the credentials you specified in step 1 of this exercise when prompted, and finally click Yes to accept the certificate.
 
-5. If you are on a Mac, save the RDP file to a convenient location, and then open the file.  If you are prompted to verify a certificate, click **Continue**. Enter the credentials you specified in the step 1 when prompted.
-6.  
+- If you are on a Mac, save the RDP file to a convenient location, and then open the file.  If you are prompted to verify a certificate, click **Continue**. Enter the credentials you specified in the step 1 when prompted.
+
+4.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE5MDYyODM3XX0=
+eyJoaXN0b3J5IjpbMTQzOTY4NTYxNl19
 -->
