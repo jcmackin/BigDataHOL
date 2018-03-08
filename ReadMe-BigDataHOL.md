@@ -239,16 +239,13 @@ The window should now appear something like this:
 
 ![lrsdone](img/lrsdone.jpg)
 
-Your DSVM is now set up to run U-SQL queries locally. 
-
-
-
-
+Visual Studio Code is now configured to run U-SQL queries locally. 
 
 
 
 <a name="Exercise3"></a>
-## Exercise 3: xxxxx
+## Exercise 3: Create U-SQL queries to view Rental Listings and Review information
+
 
 
 
@@ -262,5 +259,5 @@ Your DSVM is now set up to run U-SQL queries locally.
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUyMTE4MDE0XX0=
+eyJoaXN0b3J5IjpbMTAwODk3OTY3OV19
 -->
