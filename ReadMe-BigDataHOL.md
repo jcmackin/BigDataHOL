@@ -255,11 +255,13 @@ The Data folder includes a file called listings.csv, which contains rental listi
 
 2. Take a look at the script and notice the 3 sections.  In U-SQL, there are 3 basic components of a script.
 
-An EXTRACT statement - A file or storage blob from which data will be read
+- An EXTRACT statement - A file or storage blob from which data will be read
 
-A SELECT statement - Where any data transformations and calculations take place.
+- A SELECT statement - Where any data transformations and calculations take place.
 
+- An OUTPUT statement - A file or storage blob to which results will be written.
 
+The EXTRACT statement below, from our script, reads records from the file called Listings.csv into the variable @AllListings:
 
 <a name="Exercise4"></a>
 ## Exercise 4: xxxxx
@@ -270,5 +272,5 @@ A SELECT statement - Where any data transformations and calculations take place.
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTgzNTczMl19
+eyJoaXN0b3J5IjpbMjA2MjM4MDEwM119
 -->
