@@ -106,7 +106,7 @@ The Create page appears, displaying offer details and summary information.
 2. On the control bar for your new VM, click **Connect**.
 ![Connect](img/Connect.jpg)
 
-This step downloads an RDP file through your browser. 
+This step downloads an RDP file through your browser.  Open the RDP file.
 
 3. If you are on a Windows computer, you can open the RDP file through the browser. Click **Connect** when prompted.
 
@@ -114,5 +114,5 @@ This step downloads an RDP file through your browser.
 4.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NDAyMzgyMF19
+eyJoaXN0b3J5IjpbMTAwMDEzMTg3M119
 -->
