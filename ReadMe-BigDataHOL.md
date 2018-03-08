@@ -129,7 +129,7 @@ The DSVM contains the tools we need, but these tools are missing some components
 ![ic3](img/ic3.jpg)
 7. Click Modify.
 ![ic4](img/ic4.jpg)
-The installation will require a few minutes for the installation process to complete.
+The installation will require a few minutes to complete.
 ### Step 2: xxx 
 
 <a name="Exercise3"></a>
@@ -147,5 +147,5 @@ The installation will require a few minutes for the installation process to comp
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjgyNzgzODNdfQ==
+eyJoaXN0b3J5IjpbLTEwNzM0ODI3NzhdfQ==
 -->
