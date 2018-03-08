@@ -135,8 +135,8 @@ The installation will require a few minutes to complete.
 We will be using Visual Studio Code as our source code editor of choice. To make Visual Studio Code compatible with U-SQL, we need to install the Azure Data Lake Tools extension. 
 1.  On the desktop the DSVM, locate and double-click the Visual Studio Code icon to open this application.
 Visual Studio Code opens, along with a web page and a dialog box about Internet Explorer settings. 
-3. In the dialog box, click OK to accept the recommended settings 
-4. asdfasdf
+3. In the dialog box, click OK to accept the recommended settings.  
+4. Close Internet Explorer.
 
 <a name="Exercise3"></a>
 ## Exercise 3: xxxxx
@@ -153,5 +153,5 @@ Visual Studio Code opens, along with a web page and a dialog box about Internet 
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU0MTI4NzkyXX0=
+eyJoaXN0b3J5IjpbMTM5NjI3Mzg3OF19
 -->
