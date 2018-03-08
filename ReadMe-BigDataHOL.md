@@ -405,11 +405,18 @@ After about 20 seconds, the script fails. Why? Because we have a NULL value in o
 ```
 Simply adding a “**?**” to the end of the type will allow for NULLs. Not all types support this feature, but INT does. 
 
-Change the line to read as below:
+5. Change the line to read as below:
+
+```
+, bedrooms  int?
+```
+6.  Execute the script and after 20 seconds or so, you’ll see the output file appear in the Data folder of Visual Studio Code:
+
+
 xxxx shut down the virtual machine xxx
 
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzA1NzAyMzZdfQ==
+eyJoaXN0b3J5IjpbMTU3ODIxMDI2MF19
 -->
