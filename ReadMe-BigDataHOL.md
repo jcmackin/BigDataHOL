@@ -127,7 +127,9 @@ The DSVM contains the tools we need, but these tools are missing some components
 ![ic2](img/ic2.jpg)
 6. In the list of individual components, within the **Compilers, build tools, and runtimes category**, select the checkbox associated with **VC++ 2015.3 v140 toolset for desktop (x86,x64)**.
 ![ic3](img/ic3.jpg)
-8. asdfasd
+7. Click Modify.
+![ic4](img/ic4.jpg)
+The installation will require a few minutes for the installation process to complete.
 ### Step 2: xxx 
 
 <a name="Exercise3"></a>
@@ -145,5 +147,5 @@ The DSVM contains the tools we need, but these tools are missing some components
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjEwNTc5MTZdfQ==
+eyJoaXN0b3J5IjpbLTExNjgyNzgzODNdfQ==
 -->
