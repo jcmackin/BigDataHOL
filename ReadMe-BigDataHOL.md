@@ -117,7 +117,9 @@ The DSVM contains the tools we need, but these tools are missing some components
 1. In the DSVM, right-click the Start button and select **Search** from the shortcut menu. 
 ![search](img/search.jpg)
 2. In the search box that opens on the right side of the screen, type **Visual Studio Installer**, and then click to open that program when its tile appears below the search box.
+![SearchInstaller](img/SearchInstaller.jpg)
 
+3. 
 
 ### Step 2: xxx 
 
@@ -136,5 +138,5 @@ The DSVM contains the tools we need, but these tools are missing some components
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTYyNzUzMzJdfQ==
+eyJoaXN0b3J5IjpbLTE1ODg0OTE1NzBdfQ==
 -->
