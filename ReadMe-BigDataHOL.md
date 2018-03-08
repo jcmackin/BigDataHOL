@@ -214,6 +214,16 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 
 4. Wait a few moments for the LocalRunServer.exe terminal window to appear.  
 
+![localrunserver2](img/localrunserver2.jpg)
+
+5. At the Your Selection prompt, enter 3 to begin configuring the data root path.
+
+![lrs3](img/lrs3.jpg)
+
+6. 
+
+
+
 
 <a name="Exercise3"></a>
 ## Exercise 3: xxxxx
@@ -230,5 +240,5 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4Nzk1NjMxNF19
+eyJoaXN0b3J5IjpbMjU2MTUyMTE2XX0=
 -->
