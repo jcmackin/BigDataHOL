@@ -308,7 +308,7 @@ WHERE last_review BETWEEN
     DateTime.Parse("6/1/2017") AND
     DateTime.Parse("12/31/2017") ;
 ```
-The OUTPUT section below specifies the file to save the results:
+The OUTPUT section below specifies where to save the results:
 ```
 OUTPUT  @ListingsBetweenDates
 TO  "Listings-MyDates.csv"
@@ -340,5 +340,5 @@ USING Outputters.Csv(outputHeader:true) ;
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5MDkwNDk2XX0=
+eyJoaXN0b3J5IjpbLTIwMDIxODA5NzBdfQ==
 -->
