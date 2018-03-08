@@ -429,7 +429,7 @@ If you customize your DSVM and add spreadsheet application such as Excel to the 
 | State        | City           | Neighborhood  | Property Type | Room Type | Bedrooms
 | ------------- |:-------------:| -------------:| ------------- | ------- | ---| 
 | DC     | Washington | Capitol Hill | Apartment | Entire home/apt | 1 
-| CA      | Los Angeles      |   Hollywood |
+| CA      | Los Angeles      |   Hollywood | Apartment | 
 | zebra stripes | are neat      |    $1 |
 ```
 ```
@@ -439,5 +439,5 @@ xxxx shut down the virtual machine xxx
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTE3MDI0Nl19
+eyJoaXN0b3J5IjpbLTE2NzYzMTk4OTRdfQ==
 -->
