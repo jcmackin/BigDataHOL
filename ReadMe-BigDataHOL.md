@@ -431,13 +431,13 @@ If you customize your DSVM and add spreadsheet application such as Excel to the 
 | DC     | Washington | Capitol Hill | Apartment | Entire home/apt | 1 
 | CA      | Los Angeles      |   Hollywood | Apartment | Entire home/apt | 1
 | WA | Seattle      |    East Downtown | House | Private room | 1 
-```
-```
+
+``
 
 xxxx shut down the virtual machine xxx
 
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzM3NjAyNF19
+eyJoaXN0b3J5IjpbNzQxMjE5ODQ0XX0=
 -->
