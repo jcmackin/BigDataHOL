@@ -426,7 +426,7 @@ If you customize your DSVM and add spreadsheet application such as Excel to the 
 | zebra stripes | are neat      |    $1 |
 
 ```
-| State        | City           | Neighborhood  |
+| State        | City           | Neighborhood  | 
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
@@ -439,5 +439,5 @@ xxxx shut down the virtual machine xxx
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NzExMjY3N119
+eyJoaXN0b3J5IjpbLTEwMzA0Njc0NzVdfQ==
 -->
