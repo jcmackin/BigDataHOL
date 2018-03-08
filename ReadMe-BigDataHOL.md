@@ -124,13 +124,16 @@ The DSVM contains the tools we need, but these tools are missing some components
 ![modify](img/modify.jpg)
 
 5. On the Modifying-Visual Studio Community 2017 page that opens, click **Individual components**.
+
 ![ic2](img/ic2.jpg)
-6. In the list of individual components, within the **Compilers, build tools, and runtimes category**, select the checkbox associated with **VC++ 2015.3 v140 toolset for desktop (x86,x64)**.
+7. In the list of individual components, within the **Compilers, build tools, and runtimes category**, select the checkbox associated with **VC++ 2015.3 v140 toolset for desktop (x86,x64)**.
+
 ![ic3](img/ic3.jpg)
-7. Click Modify.
+8. Click Modify.
+
 ![ic4](img/ic4.jpg)
 The installation will require a few minutes to complete. 
-8. After the installation has completed, close the Visual Studio Installer window.
+9. After the installation has completed, close the Visual Studio Installer window.
 ### Step 2: Installing Azure Data Lake Tools in Visual Studio Code
 We will be using Visual Studio Code as our source code editor of choice. To make Visual Studio Code compatible with U-SQL, we need to install the Azure Data Lake Tools extension. 
 1.  On the desktop the DSVM, locate and double-click the Visual Studio Code icon to open this application.
@@ -182,5 +185,5 @@ You can now see Azure Data Lake Tools in the Extensions pane.
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NzE0NTY2MV19
+eyJoaXN0b3J5IjpbODY1NjMzNF19
 -->
