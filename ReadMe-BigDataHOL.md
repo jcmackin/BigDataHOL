@@ -198,8 +198,7 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 
 6. Click **Close** on all open notifications that appear at the top of the window in Visual Studio Code.
 
-8. sdfgs
-
+### Step 4: Download the lab files and script dependencies in Visual Studio Code
 9. 
 
 <a name="Exercise3"></a>
@@ -217,5 +216,5 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDUyODY0NTJdfQ==
+eyJoaXN0b3J5IjpbNTk1MzE2MzYyXX0=
 -->
