@@ -92,9 +92,11 @@ The Create page appears, displaying offer details and summary information.
 
 5.  Click **Create**.
 
+**Important: Make sure you return to the Azure portal and shut down this VM after you complete this lab.**
+
 6.  Wait a few minutes while the DSVM is deployed. After it is deployed, you will see a dashboard for your new VM. At the top of the dashboard, you will see controls.
 
 7.  The **Start** button is not available, indicating that the new VM has already started.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzQzMzYwNV19
+eyJoaXN0b3J5IjpbMTI3NDQyNzE1OV19
 -->
