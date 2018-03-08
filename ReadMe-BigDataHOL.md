@@ -190,9 +190,9 @@ You now need to trigger Visual Studio Code to install dependencies needed to con
 
 4. In the explorer pane in Visual Studio Code, expand the Scripts folder within BIGDATAHOL and double-click a script.
 
-5. If you see a Windows Security Alert that informs you that Windows Defender Firewall has blocked some features of this app, click Allow Access.  
+If you see a Windows Security Alert that informs you that Windows Defender Firewall has blocked some features of this app, click Allow Access.  
 
-6. If your system has not previously downloaded these dependencies, you will see a Warn message at the top of the window indicating that the binary dependences are being downloaded. After about 2 minutes, you will see a message at the top of the screen indicating that dependencies have completed downloading.
+5. If your system has not previously downloaded these dependencies, you will see a Warn message at the top of the window indicating that the binary dependences are being downloaded. After about 2 minutes, you will see a message at the top of the screen indicating that dependencies have completed downloading.
 
 7. sdfgsd
 
@@ -215,5 +215,5 @@ You now need to trigger Visual Studio Code to install dependencies needed to con
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODc3MzAxOF19
+eyJoaXN0b3J5IjpbMTg2MDM2NTgwNl19
 -->
