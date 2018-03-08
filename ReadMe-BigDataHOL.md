@@ -2,8 +2,9 @@
 <a name="Overview"></a>
 ## Overview ##
 This hands-on lab (HOL) draws upon a public dataset made available by [Airbnb](https://www.airbnb.com/).
+You will use the U-SQL query language to query a public dataset made available by [Airbnb](https://www.airbnb.com/)
 
-In this hands-on lab, you will use the U-SQL query language to create various Big Data queries that are designed to provide the following insights to these Airbnb users:
+create various Big Data queries that are designed to provide the following insights to these Airbnb users:
 
 + Current rental rate ranges based on their property location and features.
 + Forecasted rental rates based upon occupancy rates.
@@ -139,5 +140,5 @@ Before you can begin to
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQzNjgzNjYwXX0=
+eyJoaXN0b3J5IjpbLTc3MjkzNjYwNF19
 -->
