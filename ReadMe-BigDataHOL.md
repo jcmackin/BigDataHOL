@@ -40,10 +40,10 @@ This lab makes use of an existing dataset (released under public domain) to mode
 This hands-on lab includes the following exercises:
 
 -   [Exercise 1: Create a DSVM](https://github.com/ProwessInfo/AzureUniversityRedShirt/tree/master/Challenges/BigDataHOL#Exercise1)
--   [Exercise 2: Prepare the environment](https://github.com/ProwessInfo/AzureUniversityRedShirt/tree/master/Challenges/BigDataHOL#Exercise1)
--   [Exercise 3: Create U-SQL queries to view Rental Listings and Review information](https://github.com/ProwessInfo/AzureUniversityRedShirt/tree/master/Challenges/BigDataHOL#Exercise2)
--   [Exercise 4: Use U-SQL to calculate occupancy rate](https://github.com/ProwessInfo/AzureUniversityRedShirt/tree/master/Challenges/BigDataHOL#Exercise3)
--   [Exercise 5: Combine queries to determine potential rental income](https://github.com/ProwessInfo/AzureUniversityRedShirt/tree/master/Challenges/BigDataHOL#Exercise4)
+-   [Exercise 2: Prepare the environment](https://github.com/ProwessInfo/AzureUniversityRedShirt/tree/master/Challenges/BigDataHOL#Exercise2)
+-   [Exercise 3: Create U-SQL queries to view Rental Listings and Review information](https://github.com/ProwessInfo/AzureUniversityRedShirt/tree/master/Challenges/BigDataHOL#Exercise3)
+-   [Exercise 4: Use U-SQL to calculate occupancy rate](https://github.com/ProwessInfo/AzureUniversityRedShirt/tree/master/Challenges/BigDataHOL#Exercise4)
+-   [Exercise 5: Combine queries to determine potential rental income](https://github.com/ProwessInfo/AzureUniversityRedShirt/tree/master/Challenges/BigDataHOL#Exercise5)
 
 
 
@@ -119,5 +119,5 @@ This step downloads an RDP file through your browser.
 
 ## Exercise 2: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA3OTIzMTAwXX0=
+eyJoaXN0b3J5IjpbMTcyNTg1NDAyXX0=
 -->
