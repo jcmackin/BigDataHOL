@@ -352,11 +352,15 @@ In this exercise, you’ll see how parameters may be used in U-SQL. By comparing
 
 1. In Visual Studio Code, locate and click the script called Listings-MatchingSearchTerms.usql:
 
+![matching](img/matching.jpg)
+
+
+
 
 xxxx shut down the virtual machine xxx
 
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNzM4MzY3MV19
+eyJoaXN0b3J5IjpbMTkwNjA3NzM0MF19
 -->
