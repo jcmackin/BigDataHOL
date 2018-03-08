@@ -255,11 +255,9 @@ The Data folder includes a file called listings.csv, which contains rental listi
 
 2. Take a look at the script and notice the 3 sections.  In U-SQL, there are 3 basic components of a script.
 
+An EXTRACT statement - A file or storage blob from which data will be read
 
-- If data has headers, "skipFirstNRows:1" parameter is added to your "Extractors.Csv()" clause to become "Extractors.Csv(skipFirstNRows:1)". Headers are string values. If any of the columns are judged to be anything but string, you'll see conversion errors when you run the script.
-- The field list must match the data columns as ordered in the data file.
-- Using Extract, if a data source field, other than string, might have a NULL, follow the type with a "?" (, Price float?)
-- Every field must be cast, or typed, to the type of data as is in the data file
+A SELECT statement - Where any data transformations and calculations take place.
 
 
 
@@ -272,5 +270,5 @@ The Data folder includes a file called listings.csv, which contains rental listi
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzQwMzA0OF19
+eyJoaXN0b3J5IjpbMTA0OTgzNTczMl19
 -->
