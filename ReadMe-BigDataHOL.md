@@ -33,7 +33,7 @@ This hands-on lab includes the following exercises:
 
 -   [Exercise 1: Create a DSVM](#Exercise1)
 -   [Exercise 2: Prepare the environment](#Exercise2)
--   [Exercise 3: Create U-SQL queries to view Rental Listings and Review information](#Exercise3)
+-   [Exercise 3: Create U-SQL queries to view rental listings and review information](#Exercise3)
 -   [Exercise 4: Use U-SQL to calculate occupancy rate](#Exercise4)
 -   [Exercise 5: Combine queries to determine potential rental income](#Exercise5)
 
@@ -132,5 +132,5 @@ Before you can submit queries to
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NDEyMDExNV19
+eyJoaXN0b3J5IjpbMTg1ODg2MjIyN119
 -->
