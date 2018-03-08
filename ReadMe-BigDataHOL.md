@@ -110,8 +110,8 @@ This step downloads an RDP file through your browser.
 ![DSVMdesktop](img/DSVMdesktop.jpg)
 
 <a name="Exercise2"></a>
-## Exercise 2: xxxxx
-Before you can begin to 
+## Exercise 2: Preparing the environment
+Before you can submit queries to  
 
 
 
@@ -132,5 +132,5 @@ Before you can begin to
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODE3ODA2XX0=
+eyJoaXN0b3J5IjpbMTc3NDEyMDExNV19
 -->
