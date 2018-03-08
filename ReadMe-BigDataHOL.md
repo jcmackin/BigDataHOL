@@ -308,6 +308,13 @@ WHERE last_review BETWEEN
     DateTime.Parse("6/1/2017") AND
     DateTime.Parse("12/31/2017") ;
 ```
+
+```
+OUTPUT  @ListingsBetweenDates
+TO  "Listings-MyDates.csv"
+USING Outputters.Csv(outputHeader:true) ;
+```
+
 ### Step 2: Running the Listings-MyDates.usql script
 
 1. In Visual Studio Code, at the top of the window, close any open messages or notifications.
@@ -333,5 +340,5 @@ WHERE last_review BETWEEN
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDU1NTE1XX0=
+eyJoaXN0b3J5IjpbLTExMjEzMzMwNDVdfQ==
 -->
