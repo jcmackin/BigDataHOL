@@ -115,10 +115,11 @@ The DSVM contains the tools we need, but these tools are missing some components
    
 ### Step 1: Installing the Visual Studio component 
 1. In the DSVM, right-click the Start button and select **Search** from the shortcut menu. 
+![search](img/search.jpg)
 2. In the search box that opens xxx
 
-![DSVMdesktop](img/DSVMdesktop.jpg)
 
+### Step 2: xxx 
 
 <a name="Exercise3"></a>
 ## Exercise 3: xxxxx
@@ -135,5 +136,5 @@ The DSVM contains the tools we need, but these tools are missing some components
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDQxODE5MjVdfQ==
+eyJoaXN0b3J5IjpbLTE2NDYxNjMwOThdfQ==
 -->
