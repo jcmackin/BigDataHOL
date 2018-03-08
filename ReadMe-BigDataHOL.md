@@ -228,10 +228,14 @@ This step sets the root folder for your project data files.
 
 The service restarts, and new prompt appears.
 
-7. Enter option 4, and then enter the user name you chose for this environment.  
+7. Enter option 4, and then enter the user name you chose for this lab.  
 
 8. Enter option 5, and then specify your password. 
 
+These credentials are used to access the data files.
+The window should now appear something like this:
+
+![lrsdone](img/lrsdone.jpg)
 
 
 
@@ -257,5 +261,5 @@ The service restarts, and new prompt appears.
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMyNDYzMTA2XX0=
+eyJoaXN0b3J5IjpbMTY5NDQ1NjQzNF19
 -->
