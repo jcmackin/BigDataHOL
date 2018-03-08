@@ -115,8 +115,9 @@ This step downloads an RDP file through your browser.
 - If you are on a Mac, save the RDP file to a convenient location, and then open the file.  If you are prompted to verify a certificate, click **Continue**. Enter the credentials you specified in the step 1 when prompted.
 
 4.  When you see the DSVM desktop, proceed to the next exercise.
-![DSVMDesktop](img/Connect.jpg)
+![DSVMdesktop](img/DSVMdesktop.jpg)
 
+## Exercise 2: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzAwMzI5ODddfQ==
+eyJoaXN0b3J5IjpbLTM3NjIyNDY0OV19
 -->
