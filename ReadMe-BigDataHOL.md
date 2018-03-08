@@ -119,7 +119,7 @@ This step downloads an RDP file through your browser.
 
 <a name="Exercise2"></a>
 ## Exercise 2: Set up the U-SQL local run environment
-The DSVM contains the tools we need, but these tools are missing some components we need by default.  Before you can run U-SQL queries locally in our source code editor Visual Studio Code, you will need to download and install an additional Visual Studio component, Azure Data Lake Tools, and additional script dependencies. Then you will need to start the Azure Data Lake local run service.
+We are going to run xxx, but these tools are missing some components we need by default.  Before you can run U-SQL queries locally in our source code editor Visual Studio Code, you will need to download and install an additional Visual Studio component, Azure Data Lake Tools, and additional script dependencies. Then you will need to start the Azure Data Lake local run service.
    
 ### Step 1: Installing the Visual Studio component 
 1. In the DSVM, right-click the Start button and select **Search** from the shortcut menu. 
@@ -216,5 +216,5 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjM3MzYyNzRdfQ==
+eyJoaXN0b3J5IjpbMTU5OTQzMjQ1OF19
 -->
