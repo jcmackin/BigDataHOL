@@ -1,8 +1,7 @@
 # Big data hands-on lab (HOL) #
 <a name="Overview"></a>
 ## Overview ##
-In this hands-on lab (HOL), you will explore U-SQL, a big data language designed to query any type of data at any scale 
-
+In this hands-on lab (HOL), you will explore U-SQL, a big data language designed to query data that is stored in Azure Data Lake at any scale and of any type. 
 
 to query a dataset made available by [Airbnb](https://www.airbnb.com/).
 
@@ -142,5 +141,5 @@ Before you can begin to
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjc1NDM3NTFdfQ==
+eyJoaXN0b3J5IjpbLTQ4ODM3MTgzNV19
 -->
