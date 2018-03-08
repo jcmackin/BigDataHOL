@@ -324,7 +324,11 @@ USING Outputters.Csv(outputHeader:true) ;
 ![submitjob](img/submitjob.jpg)
 
 
+3. At the top of the window, a drop-down menu appears. Click the first option, **Local Run Context**.
 
+![localruncontext](img/localruncontext.jpg)
+
+4. 
 
 
 
@@ -341,5 +345,5 @@ USING Outputters.Csv(outputHeader:true) ;
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE2MzE3Mjc3XX0=
+eyJoaXN0b3J5IjpbMjA1MDM0NDMxOV19
 -->
