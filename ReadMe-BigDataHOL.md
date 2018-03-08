@@ -2,7 +2,7 @@
 <a name="Overview"></a>
 ## Overview ##
 In this hands-on lab (HOL), you will explore U-SQL, a big data language designed to query both structured and unstructured data at any scale.  
-You learn how to run U-SQL jobs on a local development machine to speed up early coding phases or to debug code locally in Visual Studio Code.
+You learn how to run U-SQL jobs locally on a development machine to speed up early coding phases or to use Visual Studio debug locally stored code in Visual Studio Code.
 
 In the lab, you are a developer helping to create an apartment rental app called ContosoBNB.  By querying a large dataset made available by [Airbnb](https://www.airbnb.com/), you hope to provide the following insights to eventual users of the ContosoBNB app:
 
@@ -218,5 +218,5 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTAwMDI2ODZdfQ==
+eyJoaXN0b3J5IjpbMTg2MjY4MDUzM119
 -->
