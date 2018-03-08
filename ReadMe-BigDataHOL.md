@@ -394,7 +394,7 @@ OUTPUT @ListingsMatchingSearchTerms
     ORDER BY review_scores_rating DESC 
     USING Outputters.Csv(outputHeader:true);
 ```
-3. Execute the Listings-MatchingSearchTerms.usql script.  As a reminder, you can do this by right-clicking on script text, selecting ADL: Submit Job, and then clicking the option to run the script in the Local Run Context. 
+3. Execute the Listings-MatchingSearchTerms.usql script.  (As a reminder, you can do this by right-clicking on script text, selecting ADL: Submit Job, and then clicking the option to run the script in the Local Run Context. If you can't right-click, you can open the Command Palette from the View menu, enter ADL: Submit Job at the prompt, and then click the option to run the script in the Local Run )
 
 
 xxxx shut down the virtual machine xxx
@@ -402,5 +402,5 @@ xxxx shut down the virtual machine xxx
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1MTc3OTYxXX0=
+eyJoaXN0b3J5IjpbLTQzNjAwOTAxMV19
 -->
