@@ -117,7 +117,29 @@ This step downloads an RDP file through your browser.
 4.  When you see the DSVM desktop, proceed to the next exercise.
 ![DSVMdesktop](img/DSVMdesktop.jpg)
 
+<a name="Exercise2"></a>
 ## Exercise 2: xxxxx
+
+
+
+
+
+
+
+<a name="Exercise3"></a>
+## Exercise 3: xxxxx
+
+
+
+
+<a name="Exercise4"></a>
+## Exercise 4: xxxxx
+
+
+
+
+<a name="Exercise5"></a>
+## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwNjY1MjIzXX0=
+eyJoaXN0b3J5IjpbMjAwNDI5Njk2M119
 -->
