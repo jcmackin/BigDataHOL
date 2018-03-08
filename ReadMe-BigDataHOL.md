@@ -336,7 +336,7 @@ All fields in an Extract statement should be cast as the data type you’ll need
 4.  Edit the script so that, at line 15, the data type specified is **DateTime** (as shown below), and then re-submit the script:
 
 ```
-xxxx
+, last_review DateTime
 ```
 
 5. 
@@ -356,5 +356,5 @@ xxxx
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQzNTAwNDJdfQ==
+eyJoaXN0b3J5IjpbMTU3MTIyMjc0NF19
 -->
