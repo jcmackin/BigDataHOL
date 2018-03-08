@@ -222,8 +222,11 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 
 6.  When prompted with the message **Enter a new DataRoot path**, enter the full path to the AzureHOLs\AzureUniversityRedShirt\Challenges\BigDataHOL\Data folder. For example, if you created the AzureHOLs folder on the desktop, you would enter the path C:\Users\\*yourusername*\Desktop\AzureHOLs\AzureUniversityRedShirt\Challenges\BigDataHOL\Data
 
+This step sets the root folder for your project data files.
 
+![lrs3b](img/lrs3b.jpg)
 
+The service restarts, and new prompt appears.
 
 <a name="Exercise3"></a>
 ## Exercise 3: xxxxx
@@ -240,5 +243,5 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5ODQ3MjUzXX0=
+eyJoaXN0b3J5IjpbMTE1ODYxNzIyNV19
 -->
