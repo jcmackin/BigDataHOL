@@ -114,7 +114,8 @@ This step downloads an RDP file through your browser.
 The DSVM contains the tools we need, but these tools are missing some components by default.  Before you can perform U-SQL queries in our source code editor Visual Studio Code, you will need to download and install an additional Visual Studio component, as well as the Azure Data Lake Tools.
    
 ### Step 1: Installing the Visual Studio component 
-1. In the DSVM, right-click the Start button and select **Search** from the context menu. 
+1. In the DSVM, right-click the Start button and select **Search** from the shortcut menu. 
+2. In the search box that opens xxx
 
 
 
@@ -133,5 +134,5 @@ The DSVM contains the tools we need, but these tools are missing some components
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2NzA3OThdfQ==
+eyJoaXN0b3J5IjpbMzA0NDgzMTM0XX0=
 -->
