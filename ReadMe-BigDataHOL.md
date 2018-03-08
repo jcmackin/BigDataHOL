@@ -111,7 +111,7 @@ This step downloads an RDP file through your browser.
 
 <a name="Exercise2"></a>
 ## Exercise 2: Preparing the environment
-Before you can submit queries to  
+The DSVM contains the tools we need, but it is missing some components by default.  U-SQL queries, you    
 
 
 
@@ -132,5 +132,5 @@ Before you can submit queries to
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODg2MjIyN119
+eyJoaXN0b3J5IjpbNTQ2NDQxMDU5XX0=
 -->
