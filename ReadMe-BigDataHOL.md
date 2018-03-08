@@ -153,10 +153,10 @@ The Azure Data Lake Tools extension will install. The process will take a few mo
 
 6. Click Reload to activate the Azure Data Lake tools extension.
 
-6. asdf
-8. asdfa
+![ADLTreload](img/ADLTreload.jpg)
 
-,6 ^O!
+7. asdfas 
+8. asdfasdf
 
 
 <a name="Exercise3"></a>
@@ -174,5 +174,5 @@ The Azure Data Lake Tools extension will install. The process will take a few mo
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzg4MjIwNV19
+eyJoaXN0b3J5IjpbLTQ2MTUxODg3MF19
 -->
