@@ -50,35 +50,41 @@ In this exercise, you will create an instance of the DSVM for Windows in Azure. 
 1.  In a web browser, open the [Azure portal](https://portal.azure.com/) at [https://portal.azure.com](https://portal.azure.com/), and then sign in with your Microsoft account.
 
 2.  From the left-side menu, click the **+** sign to add a new resource.
+
 ![CreateResource](img/CreateResource.jpg)
-3.  In the **Search** field, type **data science**. From the list of matching results, click **Data Science Virtual Machine - Windows 2012**.
+4.  In the **Search** field, type **data science**. From the list of matching results, click **Data Science Virtual Machine - Windows 2012**.
+
 ![FindDSVM-win](img/FindDSVM-win.jpg)
-4.  Take a few moments to read the description of the DSVM, and then click **Create**.
+5.  Take a few moments to read the description of the DSVM, and then click **Create**.
+
 ![CreateDSVM](img/CreateDSVM.jpg)
-5.  In the **Name** field, enter a name for your VM; for example, **WinDSVM**.
+6.  In the **Name** field, enter a name for your VM; for example, **WinDSVM**.
+
 ![CreateDSVM2](img/CreateDSVM2.jpg)
 7.  In the **User Name** field, type a user name of your choice. Save this information, because you will use it to sign in to the VM later.
 
-9.  In the **Password** field, enter a password of your choice. Save this information, because you will use it to sign in to the VM later.
+8.  In the **Password** field, enter a password of your choice. Save this information, because you will use it to sign in to the VM later.
 
-10.  In the **Subscription** drop-down menu, select your subscription.
+9.  In the **Subscription** drop-down menu, select your subscription.
 
-11.  In the **Resource Group** section, leave **Create New** selected, and then enter a name of your choice for the resource group in the field below; for example, **DataScienceGroup1**.
+10.  In the **Resource Group** section, leave **Create New** selected, and then enter a name of your choice for the resource group in the field below; for example, **DataScienceGroup1**.
 
-12.  In the **Location** drop-down menu, ensure that a geographically close location is chosen.
+11.  In the **Location** drop-down menu, ensure that a geographically close location is chosen.
 
-13.  Click **OK**.
+12.  Click **OK**.
 At this stage, the Choose a Size page appears. Proceed to the next step.
 
 ### Step 2: Sizing the new VM and reviewing settings
 
 1.  On the **Choose A Size** page, click **View All**.
-![ChooseSize](img/ChooseSize.jpg)
-2.  In the list of available VM types, select **DS4_V2 Standard**.
-![ChooseSize2](img/ChooseSize2.jpg)
-3.  Click **Select**.
 
-4.  On the **Settings** page that appears, review the default settings, and then click **OK**. 
+![ChooseSize](img/ChooseSize.jpg)
+3.  In the list of available VM types, select **DS4_V2 Standard**.
+
+![ChooseSize2](img/ChooseSize2.jpg)
+4.  Click **Select**.
+
+5.  On the **Settings** page that appears, review the default settings, and then click **OK**. 
 
 The Create page appears, displaying offer details and summary information.
 
@@ -96,6 +102,7 @@ The Create page appears, displaying offer details and summary information.
 1. If you are on a Mac, download and install [Microsoft Remote Desktop 10](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) from the [Mac App Store](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) . 
 
 2. On the control bar for your new VM, click **Connect**.
+
 ![Connect](img/Connect.jpg)
 
 This step downloads an RDP file through your browser.  
@@ -107,6 +114,7 @@ This step downloads an RDP file through your browser.
 - If you are on a Mac, save the RDP file to a convenient location, and then open the file.  If you are prompted to verify a certificate, click **Continue**. Enter the credentials you specified in the step 1 when prompted.
 
 4.  When you see the DSVM desktop, proceed to the next exercise.
+
 ![DSVMdesktop](img/DSVMdesktop.jpg)
 
 <a name="Exercise2"></a>
@@ -115,15 +123,18 @@ The DSVM contains the tools we need, but these tools are missing some components
    
 ### Step 1: Installing the Visual Studio component 
 1. In the DSVM, right-click the Start button and select **Search** from the shortcut menu. 
+
 ![search](img/search.jpg)
-2. In the search box that opens on the right side of the screen, type **Visual Studio Installer**, and then click to open that program when its tile appears below the search box.
+3. In the search box that opens on the right side of the screen, type **Visual Studio Installer**, and then click to open that program when its tile appears below the search box.
+
 ![SearchInstaller](img/SearchInstaller.jpg)
 
-3. If you are prompted to update the Visual Studio Installer before proceeding, click Update to perform the update. 
-4. In the Visual Studio Installer page that opens, expand the More menu associated with Visual Studio Community 2017, and then click Modify on the menu.
+4. If you are prompted to update the Visual Studio Installer before proceeding, click Update to perform the update. 
+5. In the Visual Studio Installer page that opens, expand the More menu associated with Visual Studio Community 2017, and then click Modify on the menu.
+
 ![modify](img/modify.jpg)
 
-5. On the Modifying-Visual Studio Community 2017 page that opens, click **Individual components**.
+6. On the Modifying-Visual Studio Community 2017 page that opens, click **Individual components**.
 
 ![ic2](img/ic2.jpg)
 7. In the list of individual components, within the **Compilers, build tools, and runtimes category**, select the checkbox associated with **VC++ 2015.3 v140 toolset for desktop (x86,x64)**.
@@ -185,5 +196,5 @@ You can now see Azure Data Lake Tools in the Extensions pane.
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY1NjMzNF19
+eyJoaXN0b3J5IjpbMTMxNjE4ODIzMl19
 -->
