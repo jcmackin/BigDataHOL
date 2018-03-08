@@ -129,8 +129,10 @@ The DSVM contains the tools we need, but these tools are missing some components
 ![ic3](img/ic3.jpg)
 7. Click Modify.
 ![ic4](img/ic4.jpg)
-The installation will require a few minutes to complete.
-### Step 2: xxx 
+The installation will require a few minutes to complete. After the installation has completed, move to the next step.
+### Step 2: Installing Azure Data Lake Tools in Visual Studio Code
+We will be using Visual Studio Code as our source code ed
+1.  
 
 <a name="Exercise3"></a>
 ## Exercise 3: xxxxx
@@ -147,5 +149,5 @@ The installation will require a few minutes to complete.
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzM0ODI3NzhdfQ==
+eyJoaXN0b3J5IjpbLTIwNTkzNDc2ODRdfQ==
 -->
