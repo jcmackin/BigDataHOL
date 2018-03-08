@@ -364,6 +364,9 @@ DECLARE @Property_type string = "Apartment"; // "Private room" or "Entire home/a
 DECLARE @Room_type string = "Entire home/apt"; // "Entire home/apt", "Shared room",  or "Private room"
 DECLARE @Bedrooms int = 1;
 ```
+Just as with the EXTRACT statement, variables in U-SQL must be TYPED to match their intended use. Most of the C# types are supported.
+
+The EXTRACT statement uses our previously generated data file as its input data file:
 
 
 xxxx shut down the virtual machine xxx
@@ -371,5 +374,5 @@ xxxx shut down the virtual machine xxx
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTY3OTAxM119
+eyJoaXN0b3J5IjpbLTU2NDEwNTQyOF19
 -->
