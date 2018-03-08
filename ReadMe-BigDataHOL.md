@@ -212,7 +212,7 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 
 ![accept](img/accept.jpg)
 
-4. 
+4. Wait a few moments for the LocalRunServer.exe terminal window to appear.  
 
 
 <a name="Exercise3"></a>
@@ -230,5 +230,5 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1Nzk1ODM0XX0=
+eyJoaXN0b3J5IjpbLTM4Nzk1NjMxNF19
 -->
