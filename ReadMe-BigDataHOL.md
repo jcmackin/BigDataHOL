@@ -121,8 +121,9 @@ The DSVM contains the tools we need, but these tools are missing some components
 
 3. If you are prompted to update the Visual Studio Installer before proceeding, click Update to perform the update. 
 4. In the Visual Studio Installer page that opens, expand the More menu associated with Visual Studio Community 2017, and then click Modify on the menu.
+![modify](img/modify.jpg)
 
-
+5. 
 ### Step 2: xxx 
 
 <a name="Exercise3"></a>
@@ -140,5 +141,5 @@ The DSVM contains the tools we need, but these tools are missing some components
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODUzMDExNF19
+eyJoaXN0b3J5IjpbLTEzNzYzODcwXX0=
 -->
