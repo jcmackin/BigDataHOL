@@ -318,7 +318,7 @@ USING Outputters.Csv(outputHeader:true) ;
 ### Step 2: Running the Listings-MyDates.usql script
 
 1. In Visual Studio Code, at the top of the window, close any open messages or notifications.
-2.  right-click anywhere in the script text and then select ADL: Submit Job
+2.  Open the command palette by clicking View>Command Palette. right-click anywhere in the script text and then select ADL: Submit Job
 
 
 
@@ -340,5 +340,5 @@ USING Outputters.Csv(outputHeader:true) ;
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDIxODA5NzBdfQ==
+eyJoaXN0b3J5IjpbLTIxMDI0MzE2MjddfQ==
 -->
