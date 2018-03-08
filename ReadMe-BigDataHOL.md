@@ -146,7 +146,7 @@ Visual Studio Code opens, along with a web page about Visual Studio Code and a d
 4. In the search box in the top left of the window, enter **Azure Data Lake**
 
 5. Click **Install** next to Azure Data Lake tools.
-6. 
+
 ![ADLsearch](img/ADLsearch.jpg)
 
 7. asdf
@@ -170,5 +170,5 @@ Visual Studio Code opens, along with a web page about Visual Studio Code and a d
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTExODY1XX0=
+eyJoaXN0b3J5IjpbLTYzNjc2MjE5OV19
 -->
