@@ -161,7 +161,9 @@ You can now see Azure Data Lake Tools in the Extensions pane.
 ### Step 3: Download the lab files and script dependencies in Visual Studio Code
 
 1.	Create a new folder named AzureHOLs in any convenient location on the DSVM. You will use this folder to store lab files.
-2.	
+2.	At a command prompt, navigate to the AzureHOLs folder, and then enter the following command: 
+
+4.	asdf
 
 <a name="Exercise3"></a>
 ## Exercise 3: xxxxx
@@ -178,5 +180,5 @@ You can now see Azure Data Lake Tools in the Extensions pane.
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODU5OTMwOF19
+eyJoaXN0b3J5IjpbMTAxMDc1MjcxNl19
 -->
