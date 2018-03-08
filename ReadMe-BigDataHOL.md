@@ -188,7 +188,10 @@ This step sets Visual Studio Code’s current working folder. The results should
 
 You now need to trigger Visual Studio Code to install dependencies needed to continue.
 
+4. In the explorer pane in Visual Studio Code, expand the Scripts folder within BIGDATAHOL and double-click a script.
 
+5. If you see a Windows Security Alert that informs you that Windows Defender Firewall has blocked some features of this app, click Allow Access.  
+6. 
 
 <a name="Exercise3"></a>
 ## Exercise 3: xxxxx
@@ -205,5 +208,5 @@ You now need to trigger Visual Studio Code to install dependencies needed to con
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY4NjY1MDAxXX0=
+eyJoaXN0b3J5IjpbLTkzNTExMjQyM119
 -->
