@@ -137,9 +137,7 @@ We will be using Visual Studio Code as our source code editor of choice. To make
 
 Visual Studio Code opens, along with a web page about Visual Studio Code and a dialog box about Internet Explorer settings.  
 
-2. In the dialog box for Internet Explorer, click OK to accept the recommended settings.
-
-4. In the web browser that has opened, take a few moments to read the description of Visual Studio Code that appears, and then close the page.
+2. Close all open windows except for Visual Studio Code.
 
 1.  In Visual Studio Code, click the **Extensions** icon in the left pane.
 
@@ -158,5 +156,5 @@ Visual Studio Code opens, along with a web page about Visual Studio Code and a d
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTE4MTkzNl19
+eyJoaXN0b3J5IjpbLTI3OTY4ODg0MV19
 -->
