@@ -9,8 +9,6 @@ In the lab, you are a developer helping to create an apartment rental app called
 + Forecasted rental rates based upon occupancy rates.
 + Potential monthly and yearly revenue for renting a room.
 
-The dataset does not contain rental information, so this last figure will be calculated from listing and review data. This determined occupancy rate will be used in calculations/queries.
-
 ### Objectives
 In this hands-on lab, you will:
 + Learn how Azure Data Lake and U-SQL is an alternative to Hadoop/HDFS and Map Reduce.
@@ -23,12 +21,7 @@ In this hands-on lab, you will:
 
 The following are required to complete this hands-on lab:
 
-- Microsoft’s free, open-source, Visual Studio Code with the Azure Data Lake extension
 - An Azure subscription, to perform Azure Data Lake data-transfer exercises
-- A Windows operating system
-
-
-Note: You can also perform the lab in a Mac or Linux environment, but the specific steps have been written for a Windows environment.
 
 ### Resources
 
@@ -139,5 +132,5 @@ Before you can begin to
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1MDg1NjM0XX0=
+eyJoaXN0b3J5IjpbLTg4ODE3ODA2XX0=
 -->
