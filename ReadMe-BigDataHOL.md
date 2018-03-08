@@ -377,12 +377,19 @@ SELECT al.*
 FROM @AllListings AS al // Using "al" as an alias for @AllListings
 ```
 The WHERE clause of the SELECT statement compares the parameter values to the field values. If they match, then the record is included in the output:
-
-
+```
+WHERE
+    state == @State
+AND city == @City
+AND neighbourhood == @Neighbourhood
+AND property_type == @Property_type
+AND room_type == @Room_type
+AND bedrooms == @Bedrooms ;
+```
 xxxx shut down the virtual machine xxx
 
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDU2MDk5OTBdfQ==
+eyJoaXN0b3J5IjpbMTY1NTA3MDY5XX0=
 -->
