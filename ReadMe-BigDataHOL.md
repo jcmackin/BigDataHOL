@@ -426,9 +426,10 @@ If you customize your DSVM and add spreadsheet application such as Excel to the 
 | TX | Austin      |    East Downtown | House | Private room | 1 
 
 
+This brings us to the end of the Big Data HOL. Feel free to explore the scripts and the environment more, but when you are done, remember to shut down the xxx
 
-xxxx shut down the virtual machine xxx
+### Important: Remember to Shut down the virtual machine 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4NTcwNDc2XX0=
+eyJoaXN0b3J5IjpbLTYxNzU2ODEyNF19
 -->
