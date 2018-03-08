@@ -106,9 +106,11 @@ The Create page appears, displaying offer details and summary information.
 2. On the control bar for your new VM, click **Connect**.
 ![Connect](img/Connect.jpg)
 
-3. If you are on a Mac, save the .RDP file to a convenient location, and then open the file.  If you are prompted to verify a certificate, click **Continue**. Enter the credentials you specified in the step 1 when prompted.
+This step downloads an RDP file through your browser. 
+
+3. If you are on a Mac, save the RDP file to a convenient location, and then open the file.  If you are prompted to verify a certificate, click **Continue**. Enter the credentials you specified in the step 1 when prompted.
 4.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzk2ODg0OV19
+eyJoaXN0b3J5IjpbLTE4NjgzOTQ0NjFdfQ==
 -->
