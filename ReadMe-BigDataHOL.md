@@ -123,7 +123,7 @@ The DSVM contains the tools we need, but these tools are missing some components
 4. In the Visual Studio Installer page that opens, expand the More menu associated with Visual Studio Community 2017, and then click Modify on the menu.
 ![modify](img/modify.jpg)
 
-5. On the Modifying-Visual Studio Community 2017 page that opens, click **Individual**.
+5. On the Modifying-Visual Studio Community 2017 page that opens, click **Individual components**.
 ![ic2](img/ic2.jpg)
 7. 
 ### Step 2: xxx 
@@ -143,5 +143,5 @@ The DSVM contains the tools we need, but these tools are missing some components
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIxODE3MzEwXX0=
+eyJoaXN0b3J5IjpbLTM5NTY5NjAwOF19
 -->
