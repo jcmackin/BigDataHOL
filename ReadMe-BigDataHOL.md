@@ -386,10 +386,21 @@ AND property_type == @Property_type
 AND room_type == @Room_type
 AND bedrooms == @Bedrooms ;
 ```
+Finally, in the OUTPUT statement, we  sort the output results by using the review_scores_rating field:
+```
+// ORDER BY the review score rating, largest values first.
+OUTPUT @ListingsMatchingSearchTerms
+    TO "Listings-MatchingSearchTerms.csv"
+    ORDER BY review_scores_rating DESC 
+    USING Outputters.Csv(outputHeader:true);
+```
+
+
+
 xxxx shut down the virtual machine xxx
 
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NTA3MDY5XX0=
+eyJoaXN0b3J5IjpbMTM3OTgwOTkzN119
 -->
