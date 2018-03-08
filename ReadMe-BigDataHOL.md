@@ -320,11 +320,7 @@ USING Outputters.Csv(outputHeader:true) ;
 1. In Visual Studio Code, at the top of the window, close any open messages or notifications.
 2.  Open the command palette by clicking View>Command Palette. From the prompt, type and run the command **ADL: Submit Job**. (Alternatively, you can also right-click anywhere in the script text and then select **ADL: Submit Job**.)
 
-<!\[endif\]-->
 
-!\[submitjob\](img/submitjob.jpg)
-
-ascii-E6a6L!
 
 
 
@@ -344,5 +340,5 @@ ascii-E6a6L!
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDc4OTA2ODNdfQ==
+eyJoaXN0b3J5IjpbNDczMjAwNDk3XX0=
 -->
