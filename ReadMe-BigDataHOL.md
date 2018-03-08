@@ -349,10 +349,10 @@ All fields in an Extract statement should be cast as the data type you’ll need
 ## Exercise 4: Modify query to find listings for a specific area using parameters
 
 
-
+xxxx shut down the virtual machine xxx
 
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NjEzNzA4NF19
+eyJoaXN0b3J5IjpbNjg4NDY0NDM1XX0=
 -->
