@@ -139,7 +139,7 @@ Visual Studio Code opens, along with a web page about Visual Studio Code and a d
 
 2. In the dialog box for Internet Explorer, click OK to accept the recommended settings.
 
-4. Take a few moments to read the description of Visual Studio Code, and then close Internet Explorer
+4. In the web browser that has opened, take a few moments to read the description of Visual Studio Code that appears, and then close the page.
 5. 
 6. sdfsadf
 
@@ -158,5 +158,5 @@ Visual Studio Code opens, along with a web page about Visual Studio Code and a d
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTYzMDg5NTVdfQ==
+eyJoaXN0b3J5IjpbLTczMzExMzE1OF19
 -->
