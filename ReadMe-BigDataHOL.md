@@ -103,11 +103,12 @@ The Create page appears, displaying offer details and summary information.
 ### Step 3: Connecting to the new VM
 1. If you are on a Mac, download and install [Microsoft Remote Desktop 10](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) from the [Mac App Store](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) . Open Microsoft Remote Desktop after intallation is complete.
 
-3. On the control bar for your new VM, click **Connect**.
+2. On the control bar for your new VM, click **Connect**.
 ![Connect](img/Connect.jpg)
 
-4. If you are on a Mac, save the .RDP file to a convenient location, and then open the file.  If you are prompted 
+3. If you are on a Mac, save the .RDP file to a convenient location, and then open the file.  If you are prompted to verify a certificate, click Continue.
+4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NzI0OTc5Nl19
+eyJoaXN0b3J5IjpbNDc5MzA3MTExXX0=
 -->
