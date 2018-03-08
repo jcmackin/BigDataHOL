@@ -398,13 +398,14 @@ OUTPUT @ListingsMatchingSearchTerms
 
 After about 20 seconds, the script fails. Why? Because we have a NULL value in our input data. Specifically, they are present in the bedrooms column of many records. This is a common problem when dealing with text files and string data. Let’s fix it.
 
-4. 
+4.  At line 21, locate the INT data type of the bedrooms column. INT doesn’t support NULLs. 
 
+, bedrooms  int
 
 xxxx shut down the virtual machine xxx
 
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDc5MjczOF19
+eyJoaXN0b3J5IjpbLTkxMDA1MTIwOV19
 -->
