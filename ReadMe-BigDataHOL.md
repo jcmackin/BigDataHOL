@@ -412,7 +412,9 @@ Simply adding a “**?**” to the end of the type will allow for NULLs. Not all
 ```
 6.  Execute the script and after 20 seconds or so, you’ll see the Listings-MatchingSearchTerms.csv output file appear in the Data folder of Visual Studio Code.
 
-7.  Click the file to look at the results. If you customize your DSVM and add Excel to the environment,  this Opening in Excel or any spreadsheet app, makes it a lot easier to read the columns.
+7.  Click the file to look at the results. If you customize your DSVM and add spreadsheet application such as Excel to the environment, then you could open the file in that spreadsheet application to make it much easier to read the columns.
+
+8. 
 Try changing the parameter values to see different output results. Here are some good options to try:
 
 xxxx shut down the virtual machine xxx
@@ -420,5 +422,5 @@ xxxx shut down the virtual machine xxx
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyODI5MDg2MV19
+eyJoaXN0b3J5IjpbOTcwMDQzODk5XX0=
 -->
