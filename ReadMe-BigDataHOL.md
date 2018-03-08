@@ -3,6 +3,8 @@
 ## Overview ##
 In this hands-on lab (HOL), you will explore U-SQL, a big data language designed to query both structured and unstructured data at any scale. 
 
+In the lab, you are helping to create 
+
 The lab draws upon a large dataset made available by [Airbnb](https://www.airbnb.com/).
 
 You will use this dataset to help ContosoBNB xxx
@@ -142,5 +144,5 @@ Before you can begin to
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NjQ2MTU2NV19
+eyJoaXN0b3J5IjpbNjU1MjYxODMzXX0=
 -->
