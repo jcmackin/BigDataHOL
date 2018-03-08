@@ -99,6 +99,10 @@ The Create page appears, displaying offer details and summary information.
 ![StartStop](img/StartStop.jpg)
 
 7.  The **Start** button is not available, indicating that the new VM has already started.
+
+### Step 3: Connecting to the new VM
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMjY3NTU0XX0=
+eyJoaXN0b3J5IjpbNjg5MzA4MjQ1XX0=
 -->
