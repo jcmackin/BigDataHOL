@@ -228,6 +228,20 @@ This step sets the root folder for your project data files.
 
 The service restarts, and new prompt appears.
 
+7. Enter option 4, and then enter the user name you chose for this environment.  
+
+8. Enter option 5, and then specify your password. 
+
+
+
+
+
+
+
+
+
+
+
 <a name="Exercise3"></a>
 ## Exercise 3: xxxxx
 
@@ -243,5 +257,5 @@ The service restarts, and new prompt appears.
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1ODYxNzIyNV19
+eyJoaXN0b3J5IjpbOTMyNDYzMTA2XX0=
 -->
