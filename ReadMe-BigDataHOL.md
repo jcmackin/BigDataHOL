@@ -394,7 +394,7 @@ OUTPUT @ListingsMatchingSearchTerms
     ORDER BY review_scores_rating DESC 
     USING Outputters.Csv(outputHeader:true);
 ```
-
+3. Execute the script (right-click on script text, select ADL: Submit Job xxx
 
 
 xxxx shut down the virtual machine xxx
@@ -402,5 +402,5 @@ xxxx shut down the virtual machine xxx
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3OTgwOTkzN119
+eyJoaXN0b3J5IjpbMjExNjU3NjIzXX0=
 -->
