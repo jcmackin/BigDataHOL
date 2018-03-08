@@ -328,7 +328,7 @@ USING Outputters.Csv(outputHeader:true) ;
 
 ![localruncontext](img/localruncontext.jpg)
 
-The script now runs and after about 45 seconds, it fails. This is because the last_review field is extracted as a string, but we later try to compare it to a DateTime value at line 
+The script now runs and after about 30-45 seconds, it fails. This is because the last_review field is extracted as a string, but we later try to compare it to a DateTime value at line 
 43. 
 
 4.  
@@ -348,5 +348,5 @@ The script now runs and after about 45 seconds, it fails. This is because the la
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MjcyNDU0NF19
+eyJoaXN0b3J5IjpbMTMyOTYwOTMzNF19
 -->
