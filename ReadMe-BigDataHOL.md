@@ -183,6 +183,11 @@ You can now see Azure Data Lake Tools in the Extensions pane.
 
 This step sets Visual Studio Code’s current working folder. The results should look similar to the following:
 
+![Tree1](img/Tree1.jpg)  
+
+
+You now need to trigger Visual Studio Code to install dependencies needed to continue.
+
 
 
 <a name="Exercise3"></a>
@@ -200,5 +205,5 @@ This step sets Visual Studio Code’s current working folder. The results should
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MTczMzYzNV19
+eyJoaXN0b3J5IjpbNjY4NjY1MDAxXX0=
 -->
