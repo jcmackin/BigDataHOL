@@ -262,7 +262,7 @@ The Data folder includes a file called listings.csv, which contains rental listi
 - An OUTPUT statement - A file or storage blob to which results will be written.
 
 The EXTRACT statement below, from our script, reads records from the file called Listings.csv into the variable @AllListings:
-
+```
 @AllListings =
 EXTRACT
   id string
@@ -282,6 +282,8 @@ EXTRACT
 , availability_365  string
 FROM "Listings.csv"
 USING Extractors.Csv(skipFirstNRows: 1, silent:true) ;
+```
+The SELECT statement below, limits the data selected to a 6 month period of the entire year of data available, based on the latest review date (last_review). This will show us the most recently reviewed listings.
 
 
 
@@ -294,5 +296,5 @@ USING Extractors.Csv(skipFirstNRows: 1, silent:true) ;
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzQ1NDg2ODZdfQ==
+eyJoaXN0b3J5IjpbMTQwNDY2NDUxMV19
 -->
