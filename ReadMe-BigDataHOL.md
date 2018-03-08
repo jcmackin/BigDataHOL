@@ -283,7 +283,7 @@ EXTRACT
 FROM "Listings.csv"
 USING Extractors.Csv(skipFirstNRows: 1, silent:true) ;
 ```
-The SELECT statement below, limits the data selected to a 6 month period of the entire year of data available, based on the latest review date (last_review). This will show us the most recently reviewed listings.
+The SELECT statement below, limits the data selected to a 6 month period of the entire year of data available, based on the latest review date (last_review). The WHERE xxxx will show us the listings reviewed between June 1, 2017 and December 31, 2017.
 
 ```
 @ListingsBetweenDates =
@@ -358,5 +358,5 @@ All fields in an Extract statement should be cast as the data type you’ll need
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3OTM3MTg4NV19
+eyJoaXN0b3J5IjpbMTgwMTg2ODE0N119
 -->
