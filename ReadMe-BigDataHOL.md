@@ -285,6 +285,30 @@ USING Extractors.Csv(skipFirstNRows: 1, silent:true) ;
 ```
 The SELECT statement below, limits the data selected to a 6 month period of the entire year of data available, based on the latest review date (last_review). This will show us the most recently reviewed listings.
 
+```
+@ListingsBetweenDates =
+SELECT
+id 
+, neighbourhood  
+, city  
+, state  
+, zipcode  
+, property_type  
+, room_type  
+, bedrooms  
+, price  
+, last_review
+, review_scores_rating  
+, review_scores_value  
+, reviews_per_month 
+, availability_30 
+, availability_365  
+FROM @AllListings
+WHERE last_review BETWEEN
+    DateTime.Parse("6/1/2017") AND
+    DateTime.Parse("12/31/2017") ;
+```
+### Step 2: Running the Listings-MyDates.usql script
 
 
 <a name="Exercise4"></a>
@@ -296,5 +320,5 @@ The SELECT statement below, limits the data selected to a 6 month period of the 
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDY2NDUxMV19
+eyJoaXN0b3J5IjpbMTcyNzExMjAyXX0=
 -->
