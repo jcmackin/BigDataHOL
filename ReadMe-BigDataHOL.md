@@ -111,7 +111,8 @@ This step downloads an RDP file through your browser.
 
 <a name="Exercise2"></a>
 ## Exercise 2: Preparing the environment
-The DSVM contains the tools we need, but it is missing some components by default.  U-SQL queries, you    
+The DSVM contains the tools we need, but it is missing some components by default.  
+U-SQL queries, you    
 
 
 
@@ -132,5 +133,5 @@ The DSVM contains the tools we need, but it is missing some components by defaul
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ2NDQxMDU5XX0=
+eyJoaXN0b3J5IjpbMTA4MjUzMDI1N119
 -->
