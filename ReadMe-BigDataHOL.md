@@ -82,8 +82,8 @@ At this stage, the Choose a Size page appears. Proceed to the next step.
 
 1.  On the **Choose A Size** page, click **View All**.
 ![ChooseSize](img/ChooseSize.jpg)
-2.  In the list of available VM types, select **DS1_V2 Standard**.
-
+2.  In the list of available VM types, select **DS4_V2 Standard**.
+![ChooseSize2](img/ChooseSize2.jpg)
 3.  Click **Select**.
 
 4.  On the **Settings** page that appears, review the default settings, and then click **OK**. The Create page appears, displaying offer details and summary information.
@@ -94,5 +94,5 @@ At this stage, the Choose a Size page appears. Proceed to the next step.
 
 7.  The **Start** button is not available, indicating that the new VM has already started.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxMzMxNjAzXX0=
+eyJoaXN0b3J5IjpbLTE0MzYzMjQ3NzddfQ==
 -->
