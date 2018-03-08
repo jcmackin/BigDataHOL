@@ -125,7 +125,9 @@ The DSVM contains the tools we need, but these tools are missing some components
 
 5. On the Modifying-Visual Studio Community 2017 page that opens, click **Individual components**.
 ![ic2](img/ic2.jpg)
-7. 
+6. asdfsd
+![ic2](img/ic2.jpg)
+8. asdfasd
 ### Step 2: xxx 
 
 <a name="Exercise3"></a>
@@ -143,5 +145,5 @@ The DSVM contains the tools we need, but these tools are missing some components
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NTY5NjAwOF19
+eyJoaXN0b3J5IjpbNjU2NjY2ODkzXX0=
 -->
