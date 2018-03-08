@@ -60,7 +60,7 @@ In this exercise, you will create an instance of the DSVM for Windows in Azure. 
 1.  In a web browser, open the [Azure portal](https://portal.azure.com/) at [https://portal.azure.com](https://portal.azure.com/), and then sign in with your Microsoft account.
 
 2.  From the left-side menu, click the **+** sign to add a new resource.
-![xxx](test.jpg
+![xxx](test.jpg)
 3.  In the **Search** field, type **data science**. From the list of matching results, click **Data Science Virtual Machine for Linux (Ubuntu)**.
 
 4.  Take a few moments to read the description of the DSVM for Linux (Ubuntu), and then click **Create**.
@@ -100,5 +100,5 @@ At this stage, the Choose a Size page appears. Proceed to the next step.
 
 7.  The **Start** button is not available, indicating that the new VM has already started.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTI3ODAzOF19
+eyJoaXN0b3J5IjpbLTIwODY3ODc3MTNdfQ==
 -->
