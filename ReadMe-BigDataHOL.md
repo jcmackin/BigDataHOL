@@ -86,7 +86,9 @@ At this stage, the Choose a Size page appears. Proceed to the next step.
 ![ChooseSize2](img/ChooseSize2.jpg)
 3.  Click **Select**.
 
-4.  On the **Settings** page that appears, review the default settings, and then click **OK**. The Create page appears, displaying offer details and summary information.
+4.  On the **Settings** page that appears, review the default settings, and then click **OK**. 
+
+The Create page appears, displaying offer details and summary information.
 
 5.  Click **Create**.
 
@@ -94,5 +96,5 @@ At this stage, the Choose a Size page appears. Proceed to the next step.
 
 7.  The **Start** button is not available, indicating that the new VM has already started.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzYzMjQ3NzddfQ==
+eyJoaXN0b3J5IjpbLTc3NzQzMzYwNV19
 -->
