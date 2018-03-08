@@ -247,12 +247,13 @@ Visual Studio Code is now configured to run U-SQL queries locally.
 
 The Data folder includes a file called listings.csv, which contains rental listing data for several different US cities. Let’s see how a U-SQL script can be used to analyze and output a smaller, more focused data set.
 
-### Step 1: Opening the Listings-MyDates.usql script
+### Step 1: Reviewing the Listings-MyDates.usql script
 
 1. In Visual Studio Code, within the Explorer on the left side of the window and within the Scripts folder, open the U-SQL script called Listings-MyDates.usql by clicking on it.
 
 ![listmydates](img/listmydates.jpg)
 
+2. Take a look at the script and notice the 3 sections.  In U-SQL, there are 3 basic components of a script.
 
 <a name="Exercise4"></a>
 ## Exercise 4: xxxxx
@@ -263,5 +264,5 @@ The Data folder includes a file called listings.csv, which contains rental listi
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkxNjYwMTVdfQ==
+eyJoaXN0b3J5IjpbMTU5NjM2NjAxMV19
 -->
