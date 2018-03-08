@@ -194,6 +194,7 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 
 5. If your system has not previously downloaded these dependencies, you will see a Warn message at the top of the window indicating that the binary dependences are being downloaded. After about 2 minutes, you will see a message at the top of the screen indicating that dependencies have completed downloading.
 
+![dependencies](img/dependencies.jpg)  
 7. sdfgsd
 
 8. sdfgs
@@ -215,5 +216,5 @@ If you see a Windows Security Alert that informs you that Windows Defender Firew
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDM2NTgwNl19
+eyJoaXN0b3J5IjpbLTE0Mjc3MTM1MjVdfQ==
 -->
