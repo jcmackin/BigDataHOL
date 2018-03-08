@@ -396,6 +396,8 @@ OUTPUT @ListingsMatchingSearchTerms
 ```
 3. Execute the Listings-MatchingSearchTerms.usql script.  (As a reminder, you can do this by right-clicking on script text, selecting ADL: Submit Job, and then clicking the option to run the script in the local run context. If you can't right-click, you can open the Command Palette from the View menu, enter ADL: Submit Job at the prompt, and then click the option to run the script in the local run context. )
 
+After about 20 seconds, the script fails. Why? Because we have a NULL value in our input data. Specifically, they are present in the bedrooms column of many records. This is a common problem when dealing with text files and string data. Let’s fix it.
+
 4. 
 
 
@@ -404,5 +406,5 @@ xxxx shut down the virtual machine xxx
 <a name="Exercise5"></a>
 ## Exercise 5: xxxxx
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTcxOTYwNjhdfQ==
+eyJoaXN0b3J5IjpbLTQ5NDc5MjczOF19
 -->
